@@ -77,6 +77,7 @@ Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, 
 # 📖 Educations
 ### 🪄 Master
 - *Sep 2022 - Jun 2025 (now)* \| [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm)
+
 ### 🪄 Undergraduate
 - *Sep 2018 - Jun 2022* \| [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
 - *Sep 2018 - Jun 2022* \| Mechanical Engineering Excellence Class (Mechatronic Engineering)
