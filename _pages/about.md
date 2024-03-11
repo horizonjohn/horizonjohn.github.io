@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm).
 
-My research is focused on Deep Learning and its applications in Computer Vision. My specific area of interest is deep learning-based visual understanding of sketches. 
+# About Me
+I am a Master student under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm). My research is focused on Deep Learning and its applications in Computer Vision.
+
+In my previous research, my focus primarily revolved around leveraging AI tools to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. In my future work, I will explore the application and development of Diffusion Models in generative AI.
+
+During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, contributing to three research projects. The final project, spearheaded by me, yielded exceptional results. It broke the limits of foreign technology monopoly in the textile field, leading to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
+
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=X1tytBsAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -27,8 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Congratulations. 
-- *2022.02*: &nbsp;🎉🎉 Congratulations. 
+- *Mar 2024*: &nbsp;🎉🎉 Congratulations.
 
 # 📝 Publications 
 ### 🪄 Papers
@@ -38,9 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 [CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
 
-Hanhui Deng*, <b>Jianan Jiang*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
+Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
-[**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
 - We introduce a fashion design system, CrossGAI, that can support multiple designers to collaborate on different devices and provide AI-enhanced sketching assistance.
 </div>
 </div>
@@ -51,15 +56,16 @@ Hanhui Deng*, <b>Jianan Jiang*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
 [StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
 
-Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
+Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
 
-[**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
 - We present an artificial intelligent aided fashion design system, namely StyleMe, to support the automatic generation of clothing sketches with designer style.
 </div>
 </div>
 
-- H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu. “CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design.” Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
-- D. Wu*, Z. Yu*, N. Ma*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. “StyleMe: Towards Intelligent Fashion Generation with Designer Style.” Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
+- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. “CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design.” Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. “StyleMe: Towards Intelligent Fashion Generation with Designer Style.” Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
 ### 🪄 Patents
@@ -77,6 +83,8 @@ Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, 
 # 📖 Educations
 ### 🪄 Master
 - *Sep 2022 - Jun 2025 (now)* \| [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm)
+- *Sep 2022 - Jun 2025* \| Design Science (Direct Admission)
+
 
 ### 🪄 Undergraduate
 - *Sep 2018 - Jun 2022* \| [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
@@ -84,8 +92,16 @@ Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, 
 - *Dec 2019 - Jun 2022* \| Intelligent Manufacturing and Robotics Experimental Class
 - *Dec 2020 - Jun 2022* \| Artificial Intelligence Experimental Class
 
-# 🏆 Honors and Awards
-- *Jun 2022* \| Shanghai outstanding graduates
+
+# 🏆 Selected Awards
+- *Jun 2022* \| Shanghai Outstanding Graduates
+- *Mar 2022* \| The 17th 'Challenge Cup' National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b>(<i>National Second Prize</i>)</b>
+- *May 2021* \| The 17th 'Challenge Cup' Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b>(<i>Shanghai First Prize</i>)</b>
+- *Nov 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b>(<i>National Third Prize</i>)</b>
+- *Nov 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b>(<i>Nationwide 10th</i>)</b>
+- *Nov 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b>(<i>Nationwide 9th</i>)</b>
+- *Oct 2019* \| The 'Hirschvogel Cup' Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b>(<i>Shanghai First Prize</i>)</b>
+- *Aug 2019* \| The 2019 'Robocup' China Robot Competition, <b>(<i>National Third Prize</i>)</b>
 
 
 # 💻 Internships
@@ -93,10 +109,10 @@ Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, 
 
 
 # 🎄 Others
-- Buyue Automobile Technology Association, Donghua University <b>(<i>Chairman</i>)</b>
-- School of Mechanical Engineering Student Union, Donghua University <b>(<i>Chairman</i>)</b>
+- Buyue Automobile Technology Association, Donghua University <b>(<i>President</i>)</b>
+- School of Mechanical Engineering Student Union, Donghua University <b>(<i>President</i>)</b>
 - Buyue Energy-saving Vehicle Team, Donghua University <b>(<i>Leader</i>)</b>
-- Intelligent Manufacturing and Robotics Experimental Class, Donghua University <b>(<i>Squad leader</i>)</b>
+- Intelligent Manufacturing and Robotics Experimental Class, Donghua University <b>(<i>Monitor</i>)</b>
 
 
 # 🪪 CV
