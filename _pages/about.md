@@ -109,7 +109,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎄 Others
-- Buyue Automobile Technology Association, Donghua University, <b><i>President</i>)/b>
+- Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
 - School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
 - Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
 - Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
