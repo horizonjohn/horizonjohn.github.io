@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 Hanhui Deng*, <b>Jianan Jiang*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
 [**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, we introduce a fashion design system, CrossGAI, that can support multiple designers to collaborate on different devices and provide AI-enhanced sketching assistance.
+- We introduce a fashion design system, CrossGAI, that can support multiple designers to collaborate on different devices and provide AI-enhanced sketching assistance.
 </div>
 </div>
 
@@ -54,7 +54,7 @@ Hanhui Deng*, <b>Jianan Jiang*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
 
 [**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper presents an artificial intelligent aided fashion design system, namely StyleMe, to support the automatic generation of clothing sketches with designer style.
+- We present an artificial intelligent aided fashion design system, namely StyleMe, to support the automatic generation of clothing sketches with designer style.
 </div>
 </div>
 
