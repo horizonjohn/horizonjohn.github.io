@@ -105,7 +105,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Internships
-- *Aug 2023 - Dec 2023* \| [Wondershare](https://www.wondershare.cn/), China.
+- *Aug 2023 - Dec 2023* \| [Wondershare](https://www.wondershare.cn/), Changsha, China.
 
 
 # 🎄 Others
@@ -116,4 +116,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🪪 CV
-- My personal resume can be seen at [CV](None).
+- My personal resume can be found at [CV](None).
