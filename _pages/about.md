@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master student under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=X1tytBsAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research is focused on Deep Learning and its applications in Computer Vision. My specific area of interest is deep learning-based visual understanding of sketches. 
+
+# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=X1tytBsAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Congratulations. 
+- *2022.02*: &nbsp;🎉🎉 Congratulations. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# ########## Ubicomp 2024 ##########
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hanhui Deng*, <b>Jianan Jiang*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we introduce a fashion design system, CrossGAI, that can support multiple designers to collaborate on different devices and provide AI-enhanced sketching assistance.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# ########## CHI 2023 ##########
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/Pub/CHI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
+
+Di Wu*, Zhiwang Yu*, Nan Ma*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
+
+[**Project**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper presents an artificial intelligent aided fashion design system, namely StyleMe, to support the automatic generation of clothing sketches with designer style.
+</div>
+</div>
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep 2022 - Jun 2025 (now)* | Master, [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm)
+- *Sep 2018 - Jun 2022* | Undergraduate, [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
+- *Sep 2018 - Jun 2022* | Mechanical Engineering Excellence Class (Mechatronic Engineering)
+- *Dec 2019 - Jun 2022* | Intelligent Manufacturing and Robotics Experimental Class
+- *Dec 2020 - Jun 2022* | Artificial Intelligence Experimental Class
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🏆 Honors and Awards
+- *Jun 2022* | Shanghai outstanding graduates
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Aug 2023 - Dec 2023* | [Wondershare](https://www.wondershare.cn/), China.
+
+
+# 💬 Others
+- Buyue Automobile Technology Association, Donghua University <b>(<i>Chairman</i>)</b>
+- School of Mechanical Engineering Student Union, Donghua University <b>(<i>Chairman</i>)</b>
+- Buyue Energy-saving Vehicle Team, Donghua University <b>(<i>Leader</i>)</b>
+- Intelligent Manufacturing and Robotics Experimental Class, Donghua University <b>(<i>Squad leader</i>)</b>
