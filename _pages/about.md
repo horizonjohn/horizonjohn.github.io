@@ -40,9 +40,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
+- [CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
 
-Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
+- Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
@@ -54,9 +54,9 @@ Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/Pub/CHI2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
+- [StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
 
-Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
+- Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
@@ -95,13 +95,13 @@ Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zho
 
 # 🏆 Selected Awards
 - *Jun 2022* \| Shanghai Outstanding Graduates
-- *Mar 2022* \| The 17th 'Challenge Cup' National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b>(<i>National Second Prize</i>)</b>
-- *May 2021* \| The 17th 'Challenge Cup' Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b>(<i>Shanghai First Prize</i>)</b>
-- *Nov 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b>(<i>National Third Prize</i>)</b>
-- *Nov 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b>(<i>Nationwide 10th</i>)</b>
-- *Nov 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b>(<i>Nationwide 9th</i>)</b>
-- *Oct 2019* \| The 'Hirschvogel Cup' Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b>(<i>Shanghai First Prize</i>)</b>
-- *Aug 2019* \| The 2019 'Robocup' China Robot Competition, <b>(<i>National Third Prize</i>)</b>
+- *Mar 2022* \| The 17th 'Challenge Cup' National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
+- *May 2021* \| The 17th 'Challenge Cup' Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Nov 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
+- *Nov 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
+- *Nov 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
+- *Oct 2019* \| The 'Hirschvogel Cup' Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Aug 2019* \| The 2019 'Robocup' China Robot Competition, <b><i>National Third Prize</i></b>
 
 
 # 💻 Internships
@@ -109,10 +109,10 @@ Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zho
 
 
 # 🎄 Others
-- Buyue Automobile Technology Association, Donghua University <b>(<i>President</i>)</b>
-- School of Mechanical Engineering Student Union, Donghua University <b>(<i>President</i>)</b>
-- Buyue Energy-saving Vehicle Team, Donghua University <b>(<i>Leader</i>)</b>
-- Intelligent Manufacturing and Robotics Experimental Class, Donghua University <b>(<i>Monitor</i>)</b>
+- Buyue Automobile Technology Association, Donghua University, <b><i>President</i>)/b>
+- School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
+- Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
+- Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
 
 
 # 🪪 CV
