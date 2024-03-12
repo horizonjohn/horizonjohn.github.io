@@ -119,6 +119,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 🪪 CV
 - My personal resume can be found at [CV](None).
 
+</br>
+</br>
 
+
+<div style="width: 80%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
+</div>
 
