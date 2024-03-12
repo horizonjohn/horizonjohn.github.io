@@ -23,7 +23,7 @@ I am a Master student under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/576
 
 In my previous research, my focus primarily revolved around leveraging AI tools to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. In my future work, I will explore the application and development of Diffusion Models in generative AI.
 
-During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, contributing to three research projects. The final project, spearheaded by me, yielded exceptional results. It broke the limits of foreign technology monopoly in the textile field, leading to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
+During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [Dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, contributing to three research projects. The final project, spearheaded by me, yielded exceptional results. It broke the limits of foreign technology monopoly in the textile field, leading to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
 
 
 <!--
@@ -64,8 +64,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. “CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design.” Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
-- D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. “StyleMe: Towards Intelligent Fashion Generation with Designer Style.” Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
+- <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." 2024 IEEE International Conference on Multimedia and Expo (ICME), 2024.
+- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
 ### 🪄 Patents
@@ -94,14 +95,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🏆 Selected Awards
-- *Jun 2022* \| Shanghai Outstanding Graduates
-- *Mar 2022* \| The 17th 'Challenge Cup' National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
-- *May 2021* \| The 17th 'Challenge Cup' Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Jun 2022* \| <b>Shanghai Outstanding Graduates</b>
+- *Mar 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
+- *May 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
 - *Nov 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
 - *Nov 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
 - *Nov 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
-- *Oct 2019* \| The 'Hirschvogel Cup' Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
-- *Aug 2019* \| The 2019 'Robocup' China Robot Competition, <b><i>National Third Prize</i></b>
+- *Oct 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Aug 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
 
 
 # 💻 Internships
