@@ -64,16 +64,16 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." 2024 IEEE International Conference on Multimedia and Expo (ICME), 2024.
+- <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
 - H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
 ### 🪄 Patents
 - 吴迪;于志旺;<b>蒋佳楠</b>;李星霖. 具有设计师风格的服装图像智能生成系统. CN202211571187[P]. 2023-01-17
-- 张洁;汪俊亮;李冬武;郭嘉苇;<b>蒋佳楠</b>;李佳运;王文龙;肖汛;许芳婷;沈航. 一种环锭纺细纱机自动接头装置及方法. CN202110398139[P]. 2022-07-27
-- 张洁;汪俊亮;<b>蒋佳楠</b>;郭嘉苇;李冬武;沈航;李佳运;王文龙;肖汛;许芳婷. 一种用于环锭纺细纱自动接头的机器人末端执行机构. CN202110398252[P]. 2021-07-27
 - 张洁;汪俊亮;<b>蒋佳楠</b>;郭嘉苇;李冬武;沈航;李佳运;王文龙;肖汛;许芳婷. 一种用于环锭纺细纱自动接头的备用纱绕纱装置. CN202110398137[P]. 2021-11-05
+- 张洁;汪俊亮;<b>蒋佳楠</b>;郭嘉苇;李冬武;沈航;李佳运;王文龙;肖汛;许芳婷. 一种用于环锭纺细纱自动接头的机器人末端执行机构. CN202110398252[P]. 2021-07-27
+- 张洁;汪俊亮;李冬武;郭嘉苇;<b>蒋佳楠</b>;李佳运;王文龙;肖汛;许芳婷;沈航. 一种环锭纺细纱机自动接头装置及方法. CN202110398139[P]. 2021-07-27
 
 
 ### 🪄 Software copyright
@@ -123,7 +123,7 @@ My research interest includes neural machine translation and computer vision. I 
 <br>
 
 
-<div style="width: 80%; margin: 0 auto;">
+<div style="width: 66%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
 </div>
 
