@@ -37,7 +37,35 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 ### 🪄 Papers
 <!-- ########## Ubicomp 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](None)
+
+- <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Wenyi Tang, Yidan Long, Xiang Li, Tangquan Qi, Can Liu
+
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
+- We introduce HAIGEN (<b>H</b>uman-<b>AI</b> Collaboration for <b>GEN</b>eration), an efficient fashion design system for Human-AI collaboration developed to aid designers.
+</div>
+</div>
+
+<!-- ########## ECAI 2024 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/Pub/ECAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment](None)
+
+- <b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
+
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
+- We introduce a framework that simultaneously promotes intra-sample and inter-sample feature alignment to improve the performance of FG-SBIR.
+</div>
+</div>
+
+<!-- ########## Ubicomp 2024 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
@@ -64,8 +92,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
+- <b>J. Jiang</b>, D. Wu, H. Deng, W. Tang, Y. Long, X. Li, T. Qi, C. Liu. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
-- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Adjunct Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
