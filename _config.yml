@@ -29,10 +29,10 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X1tytBsAAAAJ"
   email            : "jiangjn22@hnu.edu.cn"
-  researchgate     : "https://blog.csdn.net/weixin_45084253" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "https://blog.csdn.net/weixin_45084253"
   dribbble         :
   flickr           :
   facebook         :
