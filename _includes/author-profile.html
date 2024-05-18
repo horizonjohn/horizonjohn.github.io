@@ -117,7 +117,11 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="fab fa-fw fa-blog" aria-hidden="true"></i> Blog</a></li>
+      {% endif %}
+
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -212,6 +216,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="fab fa-fw fa-blog" aria-hidden="true"></i> Blog</a></li>
       {% endif %}
     </div>
   </div>

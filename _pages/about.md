@@ -114,19 +114,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 ### 🪄 Master
-- *Sep. 2022 - Jun. 2025 (now)* \| [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
+- *Sep. 2022 - Jun. 2025 (now)* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
 - *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
 ### 🪄 Undergraduate
-- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
+- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
 - *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellence Class (Mechatronics Engineering)
 - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
 - *Dec. 2020 - Jun. 2022* \| Artificial Intelligence Experimental Class
 
 
 # 🏆 Selected Awards
-- *Jun. 2022* \| <b>Shanghai Outstanding Graduates</b>
+- *Jun. 2022* \| <b>Shanghai Outstanding Graduates (5%)</b>
 - *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
 - *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
 - *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
@@ -136,7 +136,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *Nov. 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
 - *Oct. 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
 - *Aug. 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
-- *Nov. 2016* \| Educational Robot Competition in China, <b><i>National First Prize</i></b>
+- *Nov. 2016* \| The 6th Educational Robot Competition in China, <b><i>National First Prize</i></b>
 
 
 # 💻 Internships
