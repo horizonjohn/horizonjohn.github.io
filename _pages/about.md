@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me
-I am a Master student under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm). My research is focused on Deep Learning and its applications in Computer Vision.
+I am a Master student under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm). My research is focused on Deep Learning and its applications in Computer Vision.
 
 In my previous research, my focus primarily revolved around leveraging AI tools to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. In my future work, I will explore the application and development of Diffusion Models in generative AI.
 
@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *Mar 2024*: &nbsp;🎉🎉 Congratulations.
+- *Aug. 2024*: &nbsp;🎉🎉 Congratulations.
 
 # 📝 Publications 
 ### 🪄 Papers
@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](None)
 
-- <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Wenyi Tang, Yidan Long, Xiang Li, Tangquan Qi, Can Liu
+- <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
@@ -93,7 +93,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-- <b>J. Jiang</b>, D. Wu, H. Deng, W. Tang, Y. Long, X. Li, T. Qi, C. Liu. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
 - H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
@@ -101,54 +101,57 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 ### 🪄 Patents
-- 吴迪;于志旺;<b>蒋佳楠</b>;李星霖. 具有设计师风格的服装图像智能生成系统. CN202211571187[P]. 2023-01-17
-- 张洁;汪俊亮;<b>蒋佳楠</b>;郭嘉苇;李冬武;沈航;李佳运;王文龙;肖汛;许芳婷. 一种用于环锭纺细纱自动接头的备用纱绕纱装置. CN202110398137[P]. 2021-11-05
-- 张洁;汪俊亮;<b>蒋佳楠</b>;郭嘉苇;李冬武;沈航;李佳运;王文龙;肖汛;许芳婷. 一种用于环锭纺细纱自动接头的机器人末端执行机构. CN202110398252[P]. 2021-07-27
-- 张洁;汪俊亮;李冬武;郭嘉苇;<b>蒋佳楠</b>;李佳运;王文龙;肖汛;许芳婷;沈航. 一种环锭纺细纱机自动接头装置及方法. CN202110398139[P]. 2021-07-27
+- D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li. "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.
+- J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.
+- J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.
+- J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen. "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.
 
 
 ### 🪄 Software copyright
-- 2021SR0953602. 面向纺织生产过程的机器人自动化生产线大数据应用平台V1.0. 2021-05-15
-- 2021SR1280046. 棉纤维柔性作业机器人调度云系统V1.0.0. 2021-05-01
+- 2021SR0953602. "A Robot automated production line big data application platform for the textile production process V1.0." 2021-05-15.
+- 2021SR1280046. "A Cotton fiber flexible work robot scheduling cloud system V1.0.0." 2021-05-01.
 
 
 # 📖 Educations
 ### 🪄 Master
-- *Sep 2022 - Jun 2025 (now)* \| [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://design.hnu.edu.cn/info/1023/5765.htm)
-- *Sep 2022 - Jun 2025* \| Design Science (Direct Admission)
+- *Sep. 2022 - Jun. 2025 (now)* \| [Hunan University](https://www.hnu.edu.cn/), Changsha. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
+- *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
 ### 🪄 Undergraduate
-- *Sep 2018 - Jun 2022* \| [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
-- *Sep 2018 - Jun 2022* \| Mechanical Engineering Excellence Class (Mechatronic Engineering)
-- *Dec 2019 - Jun 2022* \| Intelligent Manufacturing and Robotics Experimental Class
-- *Dec 2020 - Jun 2022* \| Artificial Intelligence Experimental Class
+- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://www.dhu.edu.cn/), Shanghai. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
+- *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellence Class (Mechatronics Engineering)
+- *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
+- *Dec. 2020 - Jun. 2022* \| Artificial Intelligence Experimental Class
 
 
 # 🏆 Selected Awards
-- *Jun 2022* \| <b>Shanghai Outstanding Graduates</b>
-- *Mar 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
-- *May 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
-- *Nov 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
-- *Nov 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
-- *Nov 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
-- *Oct 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
-- *Aug 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
+- *Jun. 2022* \| <b>Shanghai Outstanding Graduates</b>
+- *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
+- *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
+- *Dec. 2020* \| The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b>
+- *Oct. 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
+- *Nov. 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
+- *Nov. 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
+- *Oct. 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *Aug. 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
+- *Nov. 2016* \| Educational Robot Competition in China, <b><i>National First Prize</i></b>
 
 
 # 💻 Internships
-- *Aug 2023 - Dec 2023* \| [Wondershare](https://www.wondershare.cn/), Changsha, China.
+- *Aug. 2023 - Dec. 2023* \| [Wondershare](https://www.wondershare.cn/), Changsha, China.
 
 
 # 🎄 Others
-- Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
-- School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
-- Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
-- Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
+- *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
+- *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
+- *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
+- *Dec. 2018 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
 
 
 # 🪪 CV
-- My personal resume can be found at [CV](None).
+- My personal resume can be found at [CV](None) and [CV Chinese](None).
 
 <br>
 <br>
