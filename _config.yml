@@ -24,12 +24,12 @@ author:
   name             : "Jianan Jiang"
   avatar           : "images/myself.png"
   bio              : "Hunan University"
-  location         : "Changsha, Hunan, China"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X1tytBsAAAAJ"
   email            : "jiangjn22@hnu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://blog.csdn.net/weixin_45084253" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

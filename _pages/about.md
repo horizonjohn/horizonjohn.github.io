@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *Aug. 2024*: &nbsp;🎉🎉 Congratulations.
+- *Aug. 2024*: &nbsp;🎉🎉 Congratulations !!!
 
 # 📝 Publications 
 ### 🪄 Papers
@@ -100,7 +100,7 @@ My research interest includes neural machine translation and computer vision. I 
 - D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
-### 🪄 Patents
+### 🪄 CN Patent
 - D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li. "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.
 - J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.
 - J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.
