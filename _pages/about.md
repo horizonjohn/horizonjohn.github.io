@@ -59,8 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- *Motivation*: In the field of fashion design, while a single designer's style is important, it can be enjoyable and creatively stimulating to generate sketches that incorporate the styles of multiple designers.
-- *Solution*: We introduce StyleWe, an AI-aided fashion design system that employs a lightweight GAN and model compression to achieve rapid sketch generation. Additionally, it utilizes federated learning algorithm to facilitate model styles fusion while ensuring designer privacy protection.
+- <b>*Motivation*</b>: In the field of fashion design, while a single designer's style is important, it can be enjoyable and creatively stimulating to generate sketches that incorporate the styles of multiple designers.
+- <b>*Solution*</b>: We introduce StyleWe, an AI-aided fashion design system that employs a lightweight GAN and model compression to achieve rapid sketch generation. Additionally, it utilizes federated learning algorithm to facilitate model styles fusion while ensuring designer privacy protection.
 </div>
 </div>
 
@@ -74,8 +74,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- *Motivation*: In the field of fashion design, the development of the entire design process is time-consuming and labor-intensive. Certain steps can significantly impact overall design efficiency due to unavoidable, non-value-adding operations.
-- *Solution*: We introduce HAIGEN, an AI-aided fashion design system that facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of small models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model, stimulating design inspiration and enhancing design efficiency.
+- <b>*Motivation*</b>: In the field of fashion design, the development of the entire design process is time-consuming and labor-intensive. Certain steps can significantly impact overall design efficiency due to unavoidable, non-value-adding operations.
+- <b>*Solution*</b>: We introduce HAIGEN, an AI-aided fashion design system that facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of small models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model, stimulating design inspiration and enhancing design efficiency.
 </div>
 </div>
 
@@ -89,8 +89,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- *Motivation*: In the field of fashion design, the increasing prevalence of remote work has introduced cross-regional challenges for designers, leading to the emergence of collaborative design.
-- *Solution*: We introduce CrossGAI, an AI-aided fashion design system that employs several AI modules to assist designers in rapid development. Additionally, it utilizes the Lyapunov algorithm with a DNN actor to dynamically optimize the network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
+- <b>*Motivation*</b>: In the field of fashion design, the increasing prevalence of remote work has introduced cross-regional challenges for designers, leading to the emergence of collaborative design.
+- <b>*Solution*</b>: We introduce CrossGAI, an AI-aided fashion design system that employs several AI modules to assist designers in rapid development. Additionally, it utilizes the Lyapunov algorithm with a DNN actor to dynamically optimize the network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
 </div>
 </div>
 
@@ -104,8 +104,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- *Motivation*: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
-- *Solution*: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE (Autoencoder) and GAN (Generative Adversarial Network), to color the generated sketches with a personalized style.
+- <b>*Motivation*</b>: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
+- <b>*Solution*</b>: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE (Autoencoder) and GAN (Generative Adversarial Network), to color the generated sketches with a personalized style.
 </div>
 </div>
 
