@@ -35,7 +35,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *Aug. 2024*: &nbsp;🎉🎉 Congratulations !!!
 
 # 📝 Publications 
-### 🪄 Papers
 <!-- ########## ECAI 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/Pub/ECAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +50,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <!-- ########## CSCW 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/Pub/CSCW2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/Pub/StyleWe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI](None)
@@ -66,7 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <!-- ########## Ubicomp 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](None)
@@ -81,7 +80,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <!-- ########## Ubicomp 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/CrossGAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
@@ -96,7 +95,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <!--# ########## CHI 2023 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/Pub/CHI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/Pub/StyleMe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
@@ -110,7 +109,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-
+### 🪄 Papers
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
 - <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
 - D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li. "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2024.
