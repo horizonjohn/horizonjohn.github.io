@@ -55,7 +55,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI](None)
 
-- Di Wu*, Mingzhu Wu*, Yeye Li*, <b>Jianan Jiang</b>, Xinglin Li, Hanhui Deng, Can Liu, Yi Li
+- Di Wu\*, Mingzhu Wu\*, Yeye Li\*, <b>Jianan Jiang</b>, Xinglin Li, Hanhui Deng, Can Liu, Yi Li
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
