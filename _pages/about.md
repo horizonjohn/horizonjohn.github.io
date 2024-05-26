@@ -36,20 +36,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 ### 🪄 Papers
-<!-- ########## Ubicomp 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](None)
-
-- <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
-
-<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-
-- We introduce HAIGEN (<b>H</b>uman-<b>AI</b> Collaboration for <b>GEN</b>eration), an efficient fashion design system for Human-AI collaboration developed to aid designers.
-</div>
-</div>
-
 <!-- ########## ECAI 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/Pub/ECAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +50,36 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- ########## CSCW 2024 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/Pub/CSCW2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI](None)
+
+- Di Wu*, Mingzhu Wu*, Yeye Li*, <b>Jianan Jiang</b>, Xinglin Li, Hanhui Deng, Can Liu, Yi Li
+
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
+- *Motivation*: In the field of fashion design, while a single designer's style is important, it can be enjoyable and creatively stimulating to generate sketches that incorporate the styles of multiple designers.
+- *Solution*: We introduce StyleWe, an AI-aided fashion design system that employs a lightweight GAN and model compression to achieve rapid sketch generation. Additionally, it utilizes federated learning algorithm to facilitate model styles fusion while ensuring designer privacy protection.
+</div>
+</div>
+
+<!-- ########## Ubicomp 2024 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](None)
+
+- <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
+
+<!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
+- *Motivation*: In the field of fashion design, the development of the entire design process is time-consuming and labor-intensive. Certain steps can significantly impact overall design efficiency due to unavoidable, non-value-adding operations.
+- *Solution*: We introduce HAIGEN, an AI-aided fashion design system that facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of small models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model, stimulating design inspiration and enhancing design efficiency.
+</div>
+</div>
+
 <!-- ########## Ubicomp 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/Ubicomp2024_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,7 +90,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- We introduce a fashion design system, CrossGAI, that can support multiple designers to collaborate on different devices and provide AI-enhanced sketching assistance.
+- *Motivation*: In the field of fashion design, the increasing prevalence of remote work has introduced cross-regional challenges for designers, leading to the emergence of collaborative design.
+- *Solution*: We introduce CrossGAI, an AI-aided fashion design system that employs several AI modules to assist designers in rapid development. Additionally, it utilizes the Lyapunov algorithm with a DNN actor to dynamically optimize the network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
 </div>
 </div>
 
@@ -88,14 +105,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- We present an artificial intelligent aided fashion design system, namely StyleMe, to support the automatic generation of clothing sketches with designer style.
+- *Motivation*: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
+- *Solution*: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE (Autoencoder) and GAN (Generative Adversarial Network), to color the generated sketches with a personalized style.
 </div>
 </div>
 
 
-- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
-- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
+- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
+- D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li. "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2024.
+- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
@@ -147,7 +166,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
 - *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
 - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
-- *Dec. 2018 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
+- *Nov. 2019 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
 
 
 # 🪪 CV
