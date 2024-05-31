@@ -45,7 +45,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- We introduce a framework that simultaneously promotes intra-sample and inter-sample feature alignment to improve the performance of FG-SBIR.
+- <b>*Motivation*</b>: The performance of fine-grained sketch-to-image cross-modal retrieval is limited by the abstract feature representation of sketches and the high similarity between fine-grained images. Existing methods generally use complex methodologies to improve model performance.
+- <b>*Solution*</b>: We introduce EffNet, a simple and effective method to simultaneously improve feature alignment within and between sketch and image samples, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
 </div>
 </div>
 
@@ -111,21 +112,22 @@ My research interest includes neural machine translation and computer vision. I 
 
 ### 🪄 Papers
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
-- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” 27th European Conference on Artificial Intelligence (ECAI), 2024.
+- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” The 27th European Conference on Artificial Intelligence (ECAI), 2024.
 - D. Wu\*, M. Wu\*, Y. Li\*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li. "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2024.
-- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
-- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." Proceedings of the 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
+- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.
 - D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.
 
 
 ### 🪄 CN Patent
+- D. Wu, M. Wu, <b>J. Jiang</b>, X. Li, H, Deng. "An AIGC federated learning approach for designer style fusion and privacy protection." CN202410389515[P]. 2024-05-30.
 - D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li. "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.
 - J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.
 - J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.
 - J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen. "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.
 
 
-### 🪄 Software copyright
+### 🪄 Computer Software Copyright
 - 2021SR0953602. "A Robot automated production line big data application platform for the textile production process V1.0." 2021-05-15.
 - 2021SR1280046. "A Cotton fiber flexible work robot scheduling cloud system V1.0.0." 2021-05-01.
 
