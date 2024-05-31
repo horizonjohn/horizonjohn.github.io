@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 <!-- ########## ECAI 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/Pub/ECAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment](None)
