@@ -135,7 +135,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 ### 🪄 Master (M.E.)
-- *Sep. 2022 - Jun. 2025 (now)* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
+- *Sep. 2022 - Jun. 2025* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
 - *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
