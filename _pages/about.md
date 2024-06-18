@@ -113,7 +113,7 @@ My research interest includes neural machine translation and computer vision. I 
 ### 🪄 Papers
 - <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
 - <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.
-- Y. Lu*, X. Shi*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu. "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.
+- Y. Lu\*, X. Shi\*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu. "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.
 - <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.
 - D. Wu\*, M. Wu\*, Y. Li\*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li. "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.
 - H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.
@@ -134,12 +134,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-### 🪄 Master
+### 🪄 Master (M.E.)
 - *Sep. 2022 - Jun. 2025 (now)* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
 - *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
-### 🪄 Undergraduate
+### 🪄 Bachelor (B.E.)
 - *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai, China. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
 - *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellence Class (Mechatronics Engineering)
 - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
