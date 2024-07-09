@@ -43,10 +43,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
 
+- We introduce EffNet to simultaneously improve feature alignment both inter- and intra-samples in the sketch and image domains, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
+
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- <b>*Motivation*</b>: The performance of fine-grained sketch-to-image cross-modal retrieval is limited by the abstract feature representation of sketches and the high similarity between fine-grained images. Existing methods generally use complex methodologies to improve model performance.
-- <b>*Solution*</b>: We introduce EffNet, a simple and effective method to simultaneously improve feature alignment within and between sketch and image samples, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
+<!-- - <b>*Motivation*</b>: The performance of fine-grained sketch-to-image cross-modal retrieval is limited by the abstract feature representation of sketches and the high similarity between fine-grained images. Existing methods generally use complex methodologies to improve model performance.
+- <b>*Solution*</b>: We introduce EffNet, a simple and effective method to simultaneously improve feature alignment within and between sketch and image samples, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module. -->
 </div>
 </div>
 
@@ -58,10 +60,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
 
+- We introduce HAIGEN, which facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of smaller models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model. This integration stimulates design inspiration and enhances design efficiency.
+
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- <b>*Motivation*</b>: In the field of fashion design, the development of the entire design process is time-consuming and labor-intensive. Certain steps can significantly impact overall design efficiency due to unavoidable, non-value-adding operations.
-- <b>*Solution*</b>: We introduce HAIGEN, an AI-aided fashion design system that facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of small models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model, stimulating design inspiration and enhancing design efficiency.
+<!-- - <b>*Motivation*</b>: In the field of fashion design, the development of the entire design process is time-consuming and labor-intensive. Certain steps can significantly impact overall design efficiency due to unavoidable, non-value-adding operations.
+- <b>*Solution*</b>: We introduce HAIGEN, an AI-aided fashion design system that facilitates Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of small models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model, stimulating design inspiration and enhancing design efficiency. -->
 </div>
 </div>
 
@@ -73,10 +77,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - Di Wu\*, Mingzhu Wu\*, Yeye Li\*, <b>Jianan Jiang</b>, Xinglin Li, Hanhui Deng, Can Liu, Yi Li
 
+- We introduce StyleWe, which employs a lightweight GAN with model compression and a federated learning algorithm to facilitate sketch style fusion among multiple designers while ensuring privacy protection.
+
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- <b>*Motivation*</b>: In the field of fashion design, while a single designer's style is important, it can be enjoyable and creatively stimulating to generate sketches that incorporate the styles of multiple designers.
-- <b>*Solution*</b>: We introduce StyleWe, an AI-aided fashion design system that employs a lightweight GAN and model compression to achieve rapid sketch generation. Additionally, it utilizes federated learning algorithm to facilitate model styles fusion while ensuring designer privacy protection.
+<!-- - <b>*Motivation*</b>: In the field of fashion design, while a single designer's style is important, it can be enjoyable and creatively stimulating to generate sketches that incorporate the styles of multiple designers.
+- <b>*Solution*</b>: We introduce StyleWe, an AI-aided fashion design system that employs a lightweight GAN and model compression to achieve rapid sketch generation. Additionally, it utilizes federated learning algorithm to facilitate model styles fusion while ensuring designer privacy protection. -->
 </div>
 </div>
 
@@ -88,10 +94,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
 
+- We introduce CrossGAI, which employs multiple AI modules and the Lyapunov algorithm with a DNN actor to dynamically optimize network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
+
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- <b>*Motivation*</b>: In the field of fashion design, the increasing prevalence of remote work has introduced cross-regional challenges for designers, leading to the emergence of collaborative design.
-- <b>*Solution*</b>: We introduce CrossGAI, an AI-aided fashion design system that employs several AI modules to assist designers in rapid development. Additionally, it utilizes the Lyapunov algorithm with a DNN actor to dynamically optimize the network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
+<!-- - <b>*Motivation*</b>: In the field of fashion design, the increasing prevalence of remote work has introduced cross-regional challenges for designers, leading to the emergence of collaborative design.
+- <b>*Solution*</b>: We introduce CrossGAI, an AI-aided fashion design system that employs several AI modules to assist designers in rapid development. Additionally, it utilizes the Lyapunov algorithm with a DNN actor to dynamically optimize the network bandwidth across different clients, supporting collaboration among multiple designers on various devices. -->
 </div>
 </div>
 
@@ -103,10 +111,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 - Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
 
+- We introduce StyleMe, which employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE and GAN, to color the generated sketches with a personalized style.
+
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
-- <b>*Motivation*</b>: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
-- <b>*Solution*</b>: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE and GAN, to color the generated sketches with a personalized style.
+<!-- - <b>*Motivation*</b>: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
+- <b>*Solution*</b>: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE and GAN, to color the generated sketches with a personalized style. -->
 </div>
 </div>
 
