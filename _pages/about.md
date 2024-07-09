@@ -19,11 +19,11 @@ redirect_from:
 
 
 # About Me
-My name is Jianan Jiang, and I am a Master student in Hunan University. My research is focused on Deep Learning and Its Applications.
+My name is Jianan Jiang, I am a Master student in Hunan University. My research is focused on Deep Learning and Its Applications.
 
-- In previous research during my M.E., my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. These involved methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), Transformer, LSTM, etc..
+In previous research during my M.E., my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. These involved methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), Transformer, LSTM, etc..
 
-- During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [Dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three research projects. The final project, spearheaded by me, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
+During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [Dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three research projects. The final project, spearheaded by me, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
 
 
 <!--
@@ -150,6 +150,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *Jun. 2022* \| <b>Shanghai Outstanding Graduates (5%)</b>
 - *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition), <b><i>National Second Prize</i></b>
 - *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+- *May. 2021* \| School of Mechanical Engineering in Donghua University, <b><i>Person of the Year</i></b>
 - *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
 - *Dec. 2020* \| The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b>
 - *Oct. 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
