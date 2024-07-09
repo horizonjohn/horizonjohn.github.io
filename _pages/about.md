@@ -19,11 +19,11 @@ redirect_from:
 
 
 # About Me
-I am a Master student under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm). My research is focused on Deep Learning and its applications in Computer Vision.
+My name is Jianan Jiang, and I am a Master student in Hunan University. My research is focused on Deep Learning and Its Applications.
 
-In my previous research, my focus primarily revolved around leveraging AI tools to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. In my future work, I will explore the application and development of Diffusion Models in generative AI.
+- In previous research during my M.E., my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This involved tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. These involved methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), Transformer, LSTM, etc..
 
-During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [Dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three research projects. The final project, spearheaded by me, yielded exceptional results. It broke the limits of foreign technology monopoly in the textile field, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
+- During my undergraduate period, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the [Dean](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three research projects. The final project, spearheaded by me, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.
 
 
 <!--
@@ -35,7 +35,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *Aug. 2024*: &nbsp;🎉🎉 Congratulations !!!
 
 # 📝 Publications 
-<!-- 
 <!-- ########## FGSBIR 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <b>*Motivation*</b>: The performance of fine-grained sketch-to-image cross-modal retrieval is limited by the abstract feature representation of sketches and the high similarity between fine-grained images. Existing methods generally use complex methodologies to improve model performance.
 - <b>*Solution*</b>: We introduce EffNet, a simple and effective method to simultaneously improve feature alignment within and between sketch and image samples, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
 </div>
-</div> -->
+</div>
 
 <!-- ########## Ubicomp 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
