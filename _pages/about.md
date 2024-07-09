@@ -35,6 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *Aug. 2024*: &nbsp;🎉🎉 Congratulations !!!
 
 # 📝 Publications 
+<!-- 
 <!-- ########## FGSBIR 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <b>*Motivation*</b>: The performance of fine-grained sketch-to-image cross-modal retrieval is limited by the abstract feature representation of sketches and the high similarity between fine-grained images. Existing methods generally use complex methodologies to improve model performance.
 - <b>*Solution*</b>: We introduce EffNet, a simple and effective method to simultaneously improve feature alignment within and between sketch and image samples, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
 </div>
-</div>
+</div> -->
 
 <!-- ########## Ubicomp 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
