@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *Jun. 2025*: &nbsp;🎉🎉 Congratulations !
+- *Jun. 2025*: &nbsp;🎉 Congratulations 🎉
 
 # 📝 Publications 
 <!-- ########## FGSBIR 2024 ########## -->
