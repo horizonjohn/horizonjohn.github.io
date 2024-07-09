@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment](None)
+- [Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment](https://arxiv.org/pdf/2406.11551)
 
 - <b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
 
@@ -106,7 +106,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- [**Github**](None) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
 - <b>*Motivation*</b>: In the field of fashion design, sketches are a fundamental tool for designers to express their inspiration. The sketches drawn by different designers exhibit distinct style differences, such as variations in the number and thickness of sketch strokes.
-- <b>*Solution*</b>: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE (Autoencoder) and GAN (Generative Adversarial Network), to color the generated sketches with a personalized style.
+- <b>*Solution*</b>: We introduce StyleMe, an AI-aided fashion design system that employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches. Additionally, it utilizes a two-stage generation network, combining AE and GAN, to color the generated sketches with a personalized style.
 </div>
 </div>
 
