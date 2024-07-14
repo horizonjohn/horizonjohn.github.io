@@ -23,7 +23,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">During my master's research, my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This included tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. I investigated methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), CLIP, Transformer, LSTM, etc..</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;">During my undergraduate studies, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, spearheaded by me, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">During my undergraduate studies, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
 
 
 <!--
@@ -185,7 +185,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 🪪 CV
 - My personal resume can be found at [CV](None) and [CV Chinese](None).
 
-<br>
 <br>
 
 
