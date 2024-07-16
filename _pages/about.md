@@ -176,10 +176,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎄 Others
-- *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
-- *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
-- *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
-- *Nov. 2019 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
+- Teaching Assistants
+  - Practice of industry-education integration, Hunan University, Spring 2024
+  - Neural networks and deep learning, Hunan University, Fall 2023
+  - Data acquisition and visualization, Hunan University, Fall 2022
+- Campus Activities
+  - *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
+  - *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
+  - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
+  - *Nov. 2019 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
 
 
 # 🪪 CV
@@ -190,7 +195,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🌏
 
-<div style="width: 66%; margin: 0 auto;">
+<div style="width: 56%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
 </div>
 
