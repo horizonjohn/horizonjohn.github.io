@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- <b>Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment</b>
+- <span style="font-family: Comic Sans MS, Arial;"><b>Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment</b>
 - <span style="font-family: Comic Sans MS, Arial;"><b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
 - *arXiv preprint 2024*
 - <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/EffNet" style="text-decoration: none">[Code]</a>
@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- <b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
+- <span style="font-family: Comic Sans MS, Arial;"><b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <span style="font-family: Comic Sans MS, Arial;"><b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
 - *The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
 - <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
