@@ -100,9 +100,6 @@
       <!-- {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
       {% endif %} -->
-      {% if author.codepen %}
-        <li><a href="{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> Blog</a></li>
-      {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
@@ -120,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.codepen %}
+        <li><a href="{{ author.codepen }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i> CSDN Blog</a></li>
       {% endif %}
 
     </ul>
