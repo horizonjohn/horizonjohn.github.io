@@ -39,9 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment](https://arxiv.org/pdf/2406.11551)
+- <b>Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment</b>
 - <b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
-- We introduce EffNet to simultaneously improve feature alignment both inter- and intra-samples in the sketch and image domains, which enhances retrieval performance through three key perspectives: model structure, training loss function, and model module.
+- \[[Paper (PDF)](https://arxiv.org/pdf/2406.11551)\] \[[Code](https://github.com/horizonjohn/EffNet)\]
 
 </div>
 </div>
@@ -50,66 +50,30 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design](https://dl.acm.org/doi/10.1145/3678518)
+- <b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
-- *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
-- We introduce HAIGEN to facilitate Human-AI collaboration throughout the entire design process. By integrating a large model deployed in the cloud with a series of smaller models deployed locally, designers can experience rapid development while harnessing the robust generation capabilities of the cloud-based model. This integration stimulates design inspiration and enhances design efficiency.
-
-</div>
-</div>
-
-<!-- ########## CSCW 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/Pub/StyleWe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI](None)
-- Di Wu\*, Mingzhu Wu\*, Yeye Li\*, <b>Jianan Jiang</b>, Xinglin Li, Hanhui Deng, Can Liu, Yi Li
-- *The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), 2024.*
-- We employs a lightweight GAN with model distillation and the federated learning to facilitate sketch styles fusion among multiple designers while ensuring privacy protection.
-
-</div>
-</div>
-
-<!-- ########## Ubicomp 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/CrossGAI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design](https://dl.acm.org/doi/10.1145/3643542)
-- Hanhui Deng\*, <b>Jianan Jiang\*</b>, Zhiwang Yu, Jinhui Ouyang, Di Wu
-- *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
-- We employs multiple AI modules and the Lyapunov optimization with a DNN actor to dynamically optimize network bandwidth across different clients, supporting collaboration among multiple designers on various devices.
-
-</div>
-</div>
-
-<!--# ########## CHI 2023 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/Pub/StyleMe.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [StyleMe: Towards Intelligent Fashion Generation with Designer Style](https://dl.acm.org/doi/10.1145/3544548.3581377)
-- Di Wu\*, Zhiwang Yu\*, Nan Ma\*, <b>Jianan Jiang</b>, Yuetian Wang, Guixiang Zhou, Hanhui Deng, Yi Li
-- *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI), 2023.*
-- We employs Grad-CAM and AdaLIN to guide the generation of sketches, preserving the designer's unique style in the sketches along with a two-stage generation network, combining AE and GAN, to achieve style transfer from the generated sketches to images.
+- *The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
+- \[[Paper (PDF)](https://dl.acm.org/doi/10.1145/3678518)\] \[[Code](https://github.com/horizonjohn/HAIGEN)\] \[[Demo Video](https://youtu.be/ijIJdaOUrlo)\]
 
 </div>
 </div>
 
 ### 🪄 Papers
-- <b>J. Jiang</b>, X. Li, W. Yu, D. Wu. "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.
-- <b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu. “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.
-- Y. Lu\*, X. Shi\*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu. "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.
-- <b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi. “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.
-- D. Wu\*, M. Wu\*, Y. Li\*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li. "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.
-- H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu. "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.
-- D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li. "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu.</i> “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>Y. Lu\*, X. Shi\*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu.</i> "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu\*, M. Wu\*, Y. Li\*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng\*, <b>J. Jiang\*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu\*, Z. Yu\*, N. Ma\*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li.</i> "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</p>
 
 
 ### 🪄 CN Patent
-- D. Wu, M. Wu, <b>J. Jiang</b>, X. Li, H, Deng. "An AIGC federated learning approach for designer style fusion and privacy protection." CN202410389515[P]. 2024-05-30.
-- D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li. "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.
-- J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.
-- J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu. "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.
-- J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen. "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.
+- <p style="text-align:justify; text-justify:inter-ideograph;">*D. Wu, M. Wu, <b>J. Jiang</b>, X. Li, H, Deng.* "An AIGC federated learning approach for designer style fusion and privacy protection." CN202410389515[P]. 2024-05-30.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">*D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li.* "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">*J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu.* "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">*J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu.* "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">*J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen.* "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.</p>
 
 
 ### 🪄 Computer Software Copyright
@@ -169,7 +133,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🌏
 
-<div style="width: 26%; margin: 0 auto;">
+<div style="width: 26%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
 </div>
 
