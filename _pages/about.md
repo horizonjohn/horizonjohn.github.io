@@ -47,6 +47,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- ########## HAIFIT 2024 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/HAIFIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- <span style="font-family: Arial;"><b>HAIFIT: Human-Centered AI for Fashion Image Translation</b>
+- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Xinglin Li, Weiren Yu, Di Wu
+- *arXiv preprint 2024*
+- <a href="https://arxiv.org/pdf/2403.08651" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIFIT" style="text-decoration: none">[Code]</a>
+
+</div>
+</div>
+
 <!-- ########## Ubicomp 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,17 +71,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<!-- ########## HAIFIT 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/HAIFIT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- <span style="font-family: Arial;"><b>HAIFIT: Human-Centered AI for Fashion Image Translation</b>
-- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Xinglin Li, Weiren Yu, Di Wu
-- *arXiv preprint 2024*
-- <a href="https://arxiv.org/pdf/2403.08651" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIFIT" style="text-decoration: none">[Code]</a>
-
-</div>
-</div>
 
 ### 🧩 Papers
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu.</i> “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.</p>
