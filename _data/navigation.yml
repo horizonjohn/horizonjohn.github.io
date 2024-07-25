@@ -12,9 +12,6 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Selected Awards"
-    url: "/#-selected-awards"
-
   - title: "Internships"
     url: "/#-internships"
 
@@ -22,4 +19,4 @@ main:
     url: "/#-others"
 
   - title: "CV"
-    url: "/#-cv"
+    url: "images/CV/CV_JiananJiang.pdf"

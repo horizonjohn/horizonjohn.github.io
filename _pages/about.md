@@ -21,9 +21,9 @@ redirect_from:
 # About Me
 My name is Jianan Jiang, I am a Master student in Hunan University. My research is focused on Deep Learning and Its Applications.
 
-<p style="text-align:justify; text-justify:inter-ideograph;">During my master's research, my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This included tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. I investigated methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), CLIP, Transformer, LSTM, etc..</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">During my <u>master</u>'s research, my focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This included tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. I investigated methods like Contrastive Learning, AutoEncoder (AE), Generative Adversarial Networks (GAN), Diffusion Models (DM), Vision Transformer (ViT), Graph Neural Network (GNN), CLIP, Transformer, LSTM, etc..</p>
 
-<p style="text-align:justify; text-justify:inter-ideograph;">During my undergraduate studies, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
+<p style="text-align:justify; text-justify:inter-ideograph;">During my <u>undergraduate</u> studies, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
 
 
 <!--
@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-### 🪄 Papers
+### 🧩 Papers
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu.</i> “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>Y. Lu*, X. Shi*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu.</i> "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.</p>
@@ -69,7 +69,7 @@ My research interest includes neural machine translation and computer vision. I 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, Z. Yu*, N. Ma*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li.</i> "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</p>
 
 
-### 🪄 CN Patent
+### 🧩 CN Patent
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu, M. Wu, <b>J. Jiang</b>, X. Li, H, Deng.</i> "An AIGC federated learning approach for designer style fusion and privacy protection." CN202410389515[P]. 2024-05-30.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li.</i> "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu.</i> "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.</p>
@@ -77,37 +77,22 @@ My research interest includes neural machine translation and computer vision. I 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen.</i> "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.</p>
 
 
-### 🪄 Computer Software Copyright
+### 🧩 Computer Software Copyright
 - 2021SR0953602. "A Robot automated production line big data application platform for the textile production process V1.0." 2021-05-15.
 - 2021SR1280046. "A Cotton fiber flexible work robot scheduling cloud system V1.0.0." 2021-05-01.
 
 
 # 📖 Educations
-### 🪄 Master (M.E.)
+### 🎓 Master (M.E.)
 - *Sep. 2022 - Jun. 2025* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
 - *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
-### 🪄 Bachelor (B.E.)
+### 🎓 Bachelor (B.E.)
 - *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai, China. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
 - *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellence Class (Mechatronics Engineering)
 - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
 - *Dec. 2020 - Jun. 2022* \| Artificial Intelligence Experimental Class
-
-
-# 🏆 Selected Awards
-- *Jun. 2022* \| <b>Shanghai Outstanding Graduates (5%)</b>
-- *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b>
-- *May. 2021* \| School of Mechanical Engineering in Donghua University, <b><i>Person of the Year</i></b>
-- *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
-- *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
-- *Dec. 2020* \| The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b>
-- *Oct. 2020* \| China Undergraduate Mechanical Engineering Innovation and Creativity Competition — The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
-- *Nov. 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
-- *Nov. 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
-- *Oct. 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
-- *Aug. 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
-- *Nov. 2016* \| The 6th Educational Robot Competition in China, <b><i>National First Prize</i></b>
 
 
 # 💻 Internships
@@ -115,25 +100,34 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎄 Others
+- Honors
+  - *Jun. 2022* \| <b>Shanghai Outstanding Graduates (3%)</b>
+  - *May. 2021* \| School of Mechanical Engineering in Donghua University, <b><i>Person of the Year</i></b> (One of 10 awardees)
+  - *Nov. 2021* \| Outstanding Student Leader of Donghua University
+  - *Nov. 2021* \| Outstanding Student Club Member of Donghua University
+- Competitions
+  - *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b>
+  - *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+  - *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
+  - *Dec. 2020* \| The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b>
+  - *Oct. 2020* \| The 4th China Intelligent Manufacturing Competition (Team Leader), <b><i>National Third Prize</i></b>
+  - *Nov. 2019* \| The 13th Honda China Energy-saving Competition (Fuel Group), <b><i>Nationwide 10th</i></b>
+  - *Nov. 2019* \| The 13th Honda China Energy-saving Competition (EV Group), <b><i>Nationwide 9th</i></b>
+  - *Oct. 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
+  - *Aug. 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
+  - *Nov. 2016* \| The 6th Educational Robot Competition in China, <b><i>National First Prize</i></b>
 - Teaching Assistants
   - Practice of industry-education integration, Hunan University, Summer 2024
   - Neural networks and deep learning, Hunan University, Fall 2023
   - Data acquisition and visualization, Hunan University, Fall 2022
 - Campus Activities
   - *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
-  - *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b>
+  - *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Government, Donghua University, <b><i>President</i></b>
   - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
   - *Nov. 2019 - Apr. 2021* \| Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b>
 
 
-# 🪪 CV
-- My personal resume can be found at [CV](None) and [CV Chinese](None).
-
-<br>
-
-
-# 🌏
-
+# 🗺️
 <div style="width: 26%">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
 </div>
