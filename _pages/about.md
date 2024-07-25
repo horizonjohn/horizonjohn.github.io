@@ -84,7 +84,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 ### 🎓 Master (M.E.)
-- *Sep. 2022 - Jun. 2025* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](http://robotics.hnu.edu.cn/info/1071/2109.htm)
+- *Sep. 2022 - Jun. 2025* \| [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China. Under [Prof. Di Wu](https://ics.uci.edu/~dwu3/)
 - *Sep. 2022 - Jun. 2025* \| Design Science (Direct Admission)
 
 
@@ -100,12 +100,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎄 Others
-- Honors
+- <b>Honors</b>
   - *Jun. 2022* \| <b>Shanghai Outstanding Graduates (3%)</b>
   - *May. 2021* \| School of Mechanical Engineering in Donghua University, <b><i>Person of the Year</i></b> (One of 10 awardees)
-  - *Nov. 2021* \| Outstanding Student Leader of Donghua University
-  - *Nov. 2021* \| Outstanding Student Club Member of Donghua University
-- Competitions
+  - *Nov. 2021* \| Donghua University, <b><i>Outstanding Student Member</i></b>
+  - *Nov. 2021* \| Donghua University, <b><i>Outstanding Student Club Member</i></b>
+- <b>Competitions</b>
   - *Mar. 2022* \| The 17th "Challenge Cup" National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b>
   - *May. 2021* \| The 17th "Challenge Cup" Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
   - *Dec. 2020* \| "Higher Education Cup" National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b>
@@ -116,11 +116,11 @@ My research interest includes neural machine translation and computer vision. I 
   - *Oct. 2019* \| The "Hirschvogel Cup" Shanghai Undergraduate Creative Robot Challenge Competition (Team Leader), <b><i>Shanghai First Prize</i></b>
   - *Aug. 2019* \| The 2019 "Robocup" China Robot Competition, <b><i>National Third Prize</i></b>
   - *Nov. 2016* \| The 6th Educational Robot Competition in China, <b><i>National First Prize</i></b>
-- Teaching Assistants
+- <b>Teaching Assistants</b>
   - Practice of industry-education integration, Hunan University, Summer 2024
   - Neural networks and deep learning, Hunan University, Fall 2023
   - Data acquisition and visualization, Hunan University, Fall 2022
-- Campus Activities
+- <b>Campus Activities</b>
   - *Sep. 2020 - Jun. 2021* \| Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b>
   - *Sep. 2020 - Jun. 2021* \| School of Mechanical Engineering Student Government, Donghua University, <b><i>President</i></b>
   - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b>
