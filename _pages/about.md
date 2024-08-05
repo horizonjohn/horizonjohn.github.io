@@ -26,23 +26,18 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 <p style="text-align:justify; text-justify:inter-ideograph;">During my <u>undergraduate</u> studies, I gained extensive experience in various engineering projects, with a focus on mechanical modeling analysis (SolidWorks and Ansys, etc.), as well as microcontroller development (Jetson Nano, Raspberry Pi and Stm32, etc.) and PCB design (Altium Designer). Additionally, I delved into web design (Vue.js), and engaged in object detection (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of foreign technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative agreements with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
 
 
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=X1tytBsAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
-
-
 # 🔥 News
 - *Jun. 2025*: &nbsp;🎉 Congratulations 🎉
 
 # 📝 Publications 
 <!-- ########## FGSBIR 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/EffNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/ARNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- <span style="font-family: Arial;"><b>Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment</b>
-- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Di Wu, Zhilin Jiang, Weiren Yu
+- <span style="font-family: Arial;"><b>Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling</b>
+- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Hao Tang, Zhilin Jiang, Weiren Yu, Di Wu
 - *arXiv preprint 2024*
-- <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/EffNet" style="text-decoration: none">[Code]</a>
+- <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/ARNet" style="text-decoration: none">[Code]</a>
 
 </div>
 </div>
@@ -51,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/HAIFIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- <span style="font-family: Arial;"><b>HAIFIT: Human-Centered AI for Fashion Image Translation</b>
+- <span style="font-family: Arial;"><b>HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Xinglin Li, Weiren Yu, Di Wu
 - *arXiv preprint 2024*
 - <a href="https://arxiv.org/pdf/2403.08651" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIFIT" style="text-decoration: none">[Code]</a>
@@ -65,16 +60,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 - <span style="font-family: Arial;"><b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
-- *The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
-- <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
+- *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
+- <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[ACM DL]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
 
 </div>
 </div>
 
 
 ### 🧩 Papers
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, Z. Jiang, W. Yu.</i> “Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment.” arXiv preprint arXiv:2406.11551, 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Human-Centered AI for Fashion Image Translation." arXiv preprint arXiv:2403.08651, 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, H. Tang, Z. Jiang, W. Yu, D. Wu.</i> “Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling.” arXiv preprint arXiv:2406.11551, 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation." arXiv preprint arXiv:2403.08651, 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>Y. Lu*, X. Shi*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu.</i> "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.</p>
@@ -113,6 +108,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎄 Others
+- <b>Teaching Assistants</b>
+  <ul style="padding-left: 20px;">
+      <li>Practice of industry-education integration, Hunan University, Summer 2024</li>
+      <li>Neural networks and deep learning, Hunan University, Fall 2023</li>
+      <li>Data acquisition and visualization, Hunan University, Fall 2022</li>
+    </ul>
 - <b>Honors</b>
   <ul style="padding-left: 20px;">
       <li><em>Jun. 2022</em> | <b>Shanghai Outstanding Graduates (3%)</b></li>
@@ -133,12 +134,6 @@ My research interest includes neural machine translation and computer vision. I 
       <li><em>Aug. 2019</em> | The 2019 “Robocup” China Robot Competition, <b><i>National Third Prize</i></b></li>
       <li><em>Nov. 2016</em> | The 6th Educational Robot Competition in China, <b><i>National First Prize</i></b></li>
     </ul>
-- <b>Teaching Assistants</b>
-  <ul style="padding-left: 20px;">
-      <li>Practice of industry-education integration, Hunan University, Summer 2024</li>
-      <li>Neural networks and deep learning, Hunan University, Fall 2023</li>
-      <li>Data acquisition and visualization, Hunan University, Fall 2022</li>
-    </ul>
 - <b>Campus Activities</b>
   <ul style="padding-left: 20px;">
       <li><em>Sep. 2020 - Jun. 2021</em> | Buyue Automobile Technology Association, Donghua University, <b><i>President</i></b></li>
@@ -150,7 +145,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🗺️
 <div style="width: 26%">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U&cl=ffffff&w=a"></script> -->
 </div>
 
 <br>
