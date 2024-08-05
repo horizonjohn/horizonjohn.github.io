@@ -61,7 +61,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 - <span style="font-family: Arial;"><b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
 - *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
-- <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[ACM DL]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
+- <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a> <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[ACM DL]</a>
 
 </div>
 </div>

@@ -32,7 +32,7 @@ author:
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          : "https://blog.csdn.net/weixin_45084253"
+  codepen          :
   dribbble         :
   flickr           :
   facebook         :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  csdnblog         : "https://blog.csdn.net/weixin_45084253"
 
 
 # Reading Files
