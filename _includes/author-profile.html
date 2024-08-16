@@ -218,6 +218,9 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.codepen %}
+        <a href="{{ author.csdnblog }}"><i class="fab fa-fw fa-codepen" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.csdnblog %}
         <a href="{{ author.csdnblog }}"><i class="fab fa-fw fa-blogger" aria-hidden="true"></i></a>
       {% endif %}
     </div>

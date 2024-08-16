@@ -144,7 +144,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 
 
 # 🗺️
-<div style="width: 16%;">
+<div style="width: 12%;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cPy2dvkwTmQc8rnzgxC_Lh6qc5QEz7iAHRj67MyBN3U"></script>
 </div>
 
