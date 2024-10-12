@@ -72,9 +72,9 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation." arXiv preprint arXiv:2403.08651, 2024.</p>
 
 ### 🧩 Conference
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp / IMWUT</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp/IMWUT</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp / IMWUT</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp/IMWUT</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, Z. Yu*, N. Ma*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li.</i> "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</p>
 
 ### 🧩 Journal
@@ -116,7 +116,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
     </ul>
 - <b>Competitions</b>
   <ul style="padding-left: 20px;">
-      <li><em>Mar. 2022</em> | The 17th “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b> <b>(478/22k, 2%)</b></li>
+      <li><em>Mar. 2022</em> | The 17th “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (<b>Top1</b> Competition in China), <b><i>National Second Prize</i></b> <b>(478/22k, 2%)</b></li>
       <li><em>May. 2021</em> | The 17th “Challenge Cup” Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b></li>
       <li><em>Dec. 2020</em> | “Higher Education Cup” National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b></li>
       <li><em>Dec. 2020</em> | The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b></li>
