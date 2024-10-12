@@ -67,27 +67,18 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 </div>
 
 
-### 🧩 Papers
+### 🧩 Pre-Print
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, H. Tang, Z. Jiang, W. Yu, D. Wu.</i> “Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling.” arXiv preprint arXiv:2406.11551, 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation." arXiv preprint arXiv:2403.08651, 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>Y. Lu*, X. Shi*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu.</i> "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.</p>
+
+### 🧩 Conference
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp / IMWUT</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp / IMWUT</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, Z. Yu*, N. Ma*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li.</i> "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</p>
 
-
-### 🧩 CN Patent
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu, M. Wu, <b>J. Jiang</b>, X. Li, H, Deng.</i> "An AIGC federated learning approach for designer style fusion and privacy protection." CN202410389515[P]. 2024-05-30.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu, Z. Yu, <b>J. Jiang</b>, X. Li.</i> "Intelligent Clothing Image Generation System with Designer Style." CN202211571187[P]. 2023-01-17.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu.</i> "A spare yarn winding device for automatic joint of ring spinning yarn." CN202110398137[P]. 2021-11-05.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>J. Zhang, J. Wang, <b>J. Jiang</b>, J. Guo, D. Li, H. Shen, J. Li, W. Wang, X. Xiao, F. Xu.</i> "A Robot End Actuator for Automatic Joint of Ring Spinning Yarn." CN202110398252[P]. 2021-07-27.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>J. Zhang, J. Wang, D. Li, J. Guo, <b>J. Jiang</b>, J. Li, W. Wang, X. Xiao, F. Xu, H. Shen.</i> "An automatic joint device and method of ring spinning spinning yarn machine." CN202110398139[P]. 2021-07-27.</p>
-
-
-### 🧩 Computer Software Copyright
-- 2021SR0953602. "A Robot automated production line big data application platform for the textile production process V1.0." 2021-05-15.
-- 2021SR1280046. "A Cotton fiber flexible work robot scheduling cloud system V1.0.0." 2021-05-01.
+### 🧩 Journal
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>Y. Lu*, X. Shi*, <b>J. Jiang</b>, H. Deng, Y. Wang, J. Lu, D. Wu.</i> "FPGA Adaptive Neural Network Quantization for Adversarial Image Attack Defense." IEEE Transactions on Industrial Informatics (<b>TII</b>), 2024.</p>
 
 
 # 📖 Educations
@@ -97,7 +88,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 
 
 ### 🎓 Bachelor (B.E.)
-- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai, China. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://iai.dhu.edu.cn/2021/0525/c20256a281060/page.htm)
+- *Sep. 2018 - Jun. 2022* \| [Donghua University](https://english.dhu.edu.cn/), Shanghai, China. Under [Prof. Jie Zhang](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm) & [Dr. Junliang Wang](https://scholar.google.com/citations?user=eCJf4qcAAAAJ)
 - *Sep. 2018 - Jun. 2022* \| Mechanical Engineering Excellence Class (Mechatronics Engineering)
 - *Dec. 2019 - Jun. 2022* \| Intelligent Manufacturing and Robotics Experimental Class
 - *Dec. 2020 - Jun. 2022* \| Artificial Intelligence Experimental Class
@@ -110,6 +101,8 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 # 🎄 Others
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">
+      <li>Neural networks and deep learning, Hunan University, Fall 2024</li>
+      <li>Data structure and algorithms, Hunan University, Fall 2024</li>
       <li>Practice of industry-education integration, Hunan University, Summer 2024</li>
       <li>Neural networks and deep learning, Hunan University, Fall 2023</li>
       <li>Data acquisition and visualization, Hunan University, Fall 2022</li>
@@ -123,7 +116,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
     </ul>
 - <b>Competitions</b>
   <ul style="padding-left: 20px;">
-      <li><em>Mar. 2022</em> | The 17th “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b></li>
+      <li><em>Mar. 2022</em> | The 17th “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader) (Top1 Competition in China), <b><i>National Second Prize</i></b> <b>(478/22k, 2%)</b></li>
       <li><em>May. 2021</em> | The 17th “Challenge Cup” Shanghai Undergraduate Extracurricular Academic Science and Technology Works Competition (Team Leader), <b><i>Shanghai First Prize</i></b></li>
       <li><em>Dec. 2020</em> | “Higher Education Cup” National College Students Mathematical Contest in Modeling, <b><i>Shanghai Third Prize</i></b></li>
       <li><em>Dec. 2020</em> | The 10th Advanced Mapping Technology and Innovative Design Competition, <b><i>Shanghai Second Prize</i></b></li>
