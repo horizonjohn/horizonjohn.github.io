@@ -98,7 +98,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
 - *Aug. 2023 - Dec. 2023* \| [Wondershare](https://www.wondershare.com/), Changsha, China.
 
 
-<!-- # 🎄 Others
+# 🎄 Others
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">
       <li>Neural networks and deep learning, Hunan University, Fall 2024</li>
@@ -133,7 +133,7 @@ My name is Jianan Jiang, I am a Master student in Hunan University. My research 
       <li><em>Sep. 2020 - Jun. 2021</em> | School of Mechanical Engineering Student Government, Donghua University, <b><i>President</i></b></li>
       <li><em>Dec. 2019 - Jun. 2022</em> | Intelligent Manufacturing and Robotics Experimental Class, Donghua University, <b><i>Monitor</i></b></li>
       <li><em>Nov. 2019 - Apr. 2021</em> | Buyue Energy-saving Vehicle Team, Donghua University, <b><i>Leader</i></b></li>
-    </ul> -->
+    </ul>
 
 
 # 🗺️

@@ -118,12 +118,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
-collections:
-  others:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -133,13 +127,6 @@ defaults:
       type: pages
     values:
       layout: default
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: others
-    values:
-      layout: single
       author_profile: true
 
 
