@@ -13,7 +13,7 @@ main:
     url: "/#-internships"
 
   - title: "Others"
-    url: "/#-others"
+    url: "/others"
 
   - title: "CV"
     url: "images/CV/CV_JiananJiang.pdf"
