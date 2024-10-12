@@ -135,6 +135,13 @@ defaults:
       layout: default
       author_profile: true
 
+  - scope:
+      path: ""
+      type: others
+    values:
+      layout: single
+      author_profile: true
+
 
 # Sass/SCSS
 sass:
