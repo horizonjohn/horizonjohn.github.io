@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
+permalink: /others/
 title: "Others"
-excerpt: ""
 author_profile: true
-redirect_from: 
-  - /others/
-  - /others.html
 ---
 
 # 🎄 Others
