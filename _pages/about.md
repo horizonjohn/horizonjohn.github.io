@@ -42,7 +42,7 @@ redirect_from:
 - <span style="font-family: Arial;"><b>Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Hao Tang, Zhilin Jiang, Weiren Yu, Di Wu
 - *arXiv preprint 2024* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/ARNet" style="text-decoration: none">[Code]</a>
-- We achieved better feature alignment and representation through a straightforward framework design and by recycling discarded tokens in ViT.
+- We achieved better feature alignment and representation through a straightforward framework design and by recycling discarded tokens in the ViT.
 
 </div>
 </div>
