@@ -21,14 +21,18 @@ redirect_from:
 # 🪪 About Me
 - My name is Jianan Jiang (John), I am currently a last-year Master's student at Hunan University.
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><b>Master</b>: My focus primarily revolved around leveraging Artificial Intelligence to assist designers in enhancing their design processes. This included tasks such as translating sketches into images, transferring styles from sketches to images, and implementing image retrieval based on fine-grained sketches. I investigated methods like <code>Contrastive Learning</code>, <code>AutoEncoder</code> (AE), <code>Generative Adversarial Networks</code> (GAN), <code>Diffusion Models</code> (DM), <code>Vision Transformer</code> (ViT), <code>Graph Neural Network</code> (GNN), <code>CLIP</code>, <code>Transformer</code>, <code>LSTM</code>, etc..</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;">I have a strong interdisciplinary background, spanning Science, Engineering, and Design. I truly enjoy exploring the intersection of these fields, and my vision is to integrate various technologies into our daily lives to improve efficiency and quality.</p>
 
-- <p style="text-align:justify; text-justify:inter-ideograph;"><b>Undergraduate</b>: I gained extensive experience in various engineering projects, with a focus on <code>mechanical modeling analysis</code> (SolidWorks and Ansys, etc.), as well as <code>microcontroller development</code> (Jetson Nano, Raspberry Pi and Stm32, etc.) and <code>PCB design</code> (Altium Designer). Additionally, I delved into <code>web design</code> (Vue.js), and engaged in <code>object detection</code> (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><b>Master</b>: My focus primarily revolved around leveraging Generative AI to assist designers in enhancing their design processes. This included tasks such as image generation, image translation, style transfer, and image retrieval, etc. I investigated methods like <code>Contrastive Learning</code>, <code>AutoEncoder</code> (AE), <code>Generative Adversarial Networks</code> (GAN), <code>Diffusion Models</code> (DM), <code>Vision Transformer</code> (ViT), <code>Graph Neural Network</code> (GNN), <code>CLIP</code>, <code>Transformer</code>, <code>LSTM</code>, etc.</p>
 
-- 🔭 My research interests are Deep Learning and Its Applications, include <code>Computer Vision</code>, <code>Generative AI</code>, <code>Mobile Computing</code>, <code>Human-Computer Interaction</code>, etc..
+- <p style="text-align:justify; text-justify:inter-ideograph;"><b>Undergraduate</b>: I gained extensive experience in various engineering projects, with a focus on <code>microcontroller development</code> (Jetson Nano, Raspberry Pi and Stm32, etc.), <code>PCB design</code> (Altium Designer), and <code>mechanical modeling analysis</code> (SolidWorks and Ansys, etc.). Additionally, I delved into <code>web design</code> (html/css), and engaged in <code>object detection</code> (YOLO and Faster-RCNN, etc.). In my freshman year, I joined the <a href="https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm">Dean’s</a> research group, participating in three research projects. The final project, for which I was responsible, yielded significant results. It broke the limits of technology monopoly in the textile field and passed the national technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. Furthermore, I actively participated in various science and technology competitions and campus activities to enrich my academic experience and campus life as a whole.</p>
+
+- 🔭 My research interests are Deep Learning and Its Applications, include <code>Deep Learning</code>, <code>Generative AI</code>, <code>Mobile Computing</code>, <code>Human-Computer Interaction</code>, etc..
 
 # 🔥 News
-- *Jun. 2025*: &nbsp;🎉 Congratulations 🎉
+- *Jun. 2025*: &nbsp;🎉🎉 Congratulations!
+- *Oct. 2024*: &nbsp;🎉🎉 I attended the Ubicomp 2024 Conference in Melbourne, Australia.
+- *Jul. 2024*: &nbsp;🎉🎉 Our paper <b>HAIGEN</b> has accepted by the Ubicomp/IMWUT 2024.
 
 # 📝 Publications 
 <!-- ########## FGSBIR 2024 ########## -->
@@ -37,8 +41,8 @@ redirect_from:
 
 - <span style="font-family: Arial;"><b>Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Hao Tang, Zhilin Jiang, Weiren Yu, Di Wu
-- *arXiv preprint 2024*
-- <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/ARNet" style="text-decoration: none">[Code]</a>
+- *arXiv preprint 2024* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/ARNet" style="text-decoration: none">[Code]</a>
+- We achieved better feature alignment and representation through a straightforward framework design and by recycling discarded tokens in ViT.
 
 </div>
 </div>
@@ -49,8 +53,8 @@ redirect_from:
 
 - <span style="font-family: Arial;"><b>HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Xinglin Li, Weiren Yu, Di Wu
-- *arXiv preprint 2024*
-- <a href="https://arxiv.org/pdf/2403.08651" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIFIT" style="text-decoration: none">[Code]</a>
+- *arXiv preprint 2024* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2403.08651" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIFIT" style="text-decoration: none">[Code]</a>
+- We introduced an approach that treats input sketches as sequences to maintain consistency from different directions, inspired by human perception.
 
 </div>
 </div>
@@ -61,8 +65,8 @@ redirect_from:
 
 - <span style="font-family: Arial;"><b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
-- *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), 2024.*
-- <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a> <a href="https://dl.acm.org/doi/10.1145/3678518" style="text-decoration: none">[ACM DL]</a>
+- *Ubicomp/IMWUT 2024.* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
+- We introduced a system to facilitate the entire design process within a Human-AI collaborative framework, harnessing the powerful capabilities of cloud large models and the convenience of local small models through well-designed methodologies.
 
 </div>
 </div>
