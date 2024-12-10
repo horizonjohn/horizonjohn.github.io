@@ -31,10 +31,10 @@ redirect_from:
 
 # 🔥 News
 <!-- - *Jun. 2025*: &nbsp;🎉🎉 Congratulations! -->
-- *Dec. 2024*: &nbsp;🎉🎉 Our paper <b>ARNet</b> accepted to <b>AAAI 2025</b>.
-- *Nov. 2024*: &nbsp;🎉🎉 Our paper <b>StyleWe</b> was selected as the <b>Best Paper</b> by <b>CSCW 2024</b> (One of 5 Awardees, 1%).
-- *Jul. 2024*: &nbsp;🎉🎉 Our paper <b>HAIGEN</b> accepted to <b>Ubicomp/IMWUT 2024</b>.
-- *Feb. 2024*: &nbsp;🎉🎉 Our paper <b>CrossGAI</b> accepted to <b>Ubicomp/IMWUT 2024</b>.
+- *Dec. 2024*: &nbsp; Our paper <b>ARNet</b> accepted to <b>AAAI 2025</b>.
+- *Nov. 2024*: &nbsp; Our paper <b>StyleWe</b> was selected as the <b>Best Paper</b> by <b>CSCW 2024</b> (One of 5 Awardees, 1%).
+- *Jul. 2024*: &nbsp; Our paper <b>HAIGEN</b> accepted to <b>Ubicomp/IMWUT 2024</b>.
+- *Feb. 2024*: &nbsp; Our paper <b>CrossGAI</b> accepted to <b>Ubicomp/IMWUT 2024</b>.
 
 # 📝 Publications 
 <!-- ########## HAIFIT 2024 ########## -->
