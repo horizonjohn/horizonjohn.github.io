@@ -30,23 +30,13 @@ redirect_from:
 - 🔭 My research interests are Deep Learning and Its Applications, include <code>Deep Learning</code>, <code>Generative AI</code>, <code>Mobile Computing</code>, <code>Human-Computer Interaction</code>, etc..
 
 # 🔥 News
-- *Jun. 2025*: &nbsp;🎉🎉 Congratulations!
-- *Oct. 2024*: &nbsp;🎉🎉 I attended the Ubicomp 2024 Conference in Melbourne, Australia.
-- *Jul. 2024*: &nbsp;🎉🎉 Our paper <b>HAIGEN</b> has accepted by the Ubicomp/IMWUT 2024.
+<!-- - *Jun. 2025*: &nbsp;🎉🎉 Congratulations! -->
+- *Dec. 2024*: &nbsp;🎉🎉 Our paper <b>ARNet</b> accepted to AAAI 2025.
+- *Nov. 2024*: &nbsp;🎉🎉 Our paper <b>StyleWe</b> was selected as the <b>Best Paper</b> by CSCW 2024 (One of 5 Awardees, 1%).
+- *Jul. 2024*: &nbsp;🎉🎉 Our paper <b>HAIGEN</b> accepted to Ubicomp/IMWUT 2024.
+- *Feb. 2024*: &nbsp;🎉🎉 Our paper <b>CrossGAI</b> accepted to Ubicomp/IMWUT 2024.
 
 # 📝 Publications 
-<!-- ########## FGSBIR 2024 ########## -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/ARNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- <span style="font-family: Arial;"><b>Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling</b>
-- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Hao Tang, Zhilin Jiang, Weiren Yu, Di Wu
-- *arXiv preprint 2024* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/ARNet" style="text-decoration: none">[Code]</a>
-- We achieved better feature alignment and representation through a straightforward framework design and by recycling discarded tokens in the ViT.
-
-</div>
-</div>
-
 <!-- ########## HAIFIT 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/Pub/HAIFIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,13 +49,25 @@ redirect_from:
 </div>
 </div>
 
+<!-- ########## AAAI 2025 ########## -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Pub/ARNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- <span style="font-family: Arial;"><b>ARNet: Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling</b>
+- <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Hao Tang, Zhilin Jiang, Weiren Yu, Di Wu
+- *arXiv preprint 2024* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2406.11551" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/ExponentiAI/ARNet" style="text-decoration: none">[Code]</a>
+- We achieved better feature alignment and representation through a straightforward framework design and by recycling discarded tokens in the ViT.
+
+</div>
+</div>
+
 <!-- ########## Ubicomp 2024 ########## -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/Pub/HAIGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - <span style="font-family: Arial;"><b>HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design</b>
 - <span style="font-family: Comic Sans MS;"><b>Jianan Jiang</b>, Di Wu, Hanhui Deng, Yidan Long, Wenyi Tang, Xiang Li, Can Liu, Zhanpeng Jin, Wenlei Zhang, Tangquan Qi
-- *Ubicomp/IMWUT 2024.* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/horizonjohn/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
+- *Ubicomp/IMWUT 2024.* &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2408.00855" style="text-decoration: none">[Paper (PDF)]</a> <a href="https://github.com/ExponentiAI/HAIGEN" style="text-decoration: none">[Code]</a> <a href="https://youtu.be/ijIJdaOUrlo" style="text-decoration: none">[Demo Video]</a>
 - We introduced a system to facilitate the entire design process within a Human-AI collaborative framework, harnessing the powerful capabilities of cloud large models and the convenience of local small models through well-designed methodologies.
 
 </div>
@@ -73,12 +75,13 @@ redirect_from:
 
 
 ### 🧩 Pre-Print
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, H. Tang, Z. Jiang, W. Yu, D. Wu.</i> “Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling.” arXiv preprint arXiv:2406.11551, 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>Z. Chen, A. Geng, <b>J. Jiang</b>, J. Lu, D. Wu.</i> "Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection." arXiv preprint arXiv:2408.07455, 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, X. Li, W. Yu, D. Wu.</i> "HAIFIT: Fashion Image Translation for Human-to-AI Style Learning and Generation." arXiv preprint arXiv:2403.08651, 2024.</p>
 
 ### 🧩 Conference
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, H. Tang, Z. Jiang, W. Yu, D. Wu.</i> “ARNet: Self-Supervised FG-SBIR with Unified Sample Feature Alignment and Multi-Scale Token Recycling.” The 39th Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i><b>J. Jiang</b>, D. Wu, H. Deng, Y. Long, W. Tang, X. Li, C. Liu, Z. Jin, W. Zhang, T. Qi.</i> “HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design.” The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp/IMWUT</b>), 2024.</p>
-- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024.</p>
+- <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, M. Wu*, Y. Li*, <b>J. Jiang</b>, X. Li, H. Deng, C. Liu, Y. Li.</i> "StyleWe: Towards Style Fusion in Generative Fashion Design with Efficient Federated AI." The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing (<b>CSCW</b>), 2024. [Best Paper Award](https://cscw.acm.org/2024/index.php/awards/)</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>H. Deng*, <b>J. Jiang*</b>, Z. Yu, J. Ouyang, D. Wu.</i> "CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design." The 2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>Ubicomp/IMWUT</b>), 2024.</p>
 - <p style="text-align:justify; text-justify:inter-ideograph;"><i>D. Wu*, Z. Yu*, N. Ma*, <b>J. Jiang</b>, Y. Wang, G. Zhou, H. Deng, Y. Li.</i> "StyleMe: Towards Intelligent Fashion Generation with Designer Style." Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</p>
 
