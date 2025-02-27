@@ -25,7 +25,7 @@ I have a strong `interdisciplinary` background. I truly enjoy exploring the inte
 🔍 <b>Master</b>: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design process. I investigated areas:
 - <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder.
 - <b>Basic Structure</b>: Vision Transformers, CLIP, Transformer.
-- <b>Efficient Learning</b>: Self-Supervised Learning, Few-shot Learning.
+- <b>Efficient Learning</b>: Self-Supervised Learning, Multi-Modal Learning.
 
 🔍 <b>Undergraduate</b>: I gained extensive experience in various engineering projects, focusing on the following interconnected aspects: 
 - <b>Microcontroller Development</b>: Jetson Nano, Raspberry Pi, Stm32, Arduino.
