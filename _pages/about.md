@@ -6,11 +6,11 @@ subtitle: A final-year Master's student at Hunan University.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: john.png
   image_circular: false # crops the image to make it circular
   more_info: # >
-    <p>Jianan Jiang, Master @ HNU</p>
+    <p>John, Master @ HNU</p>
   # <p>123 your address street</p>
   # <p>Your City, State 12345</p>
 
