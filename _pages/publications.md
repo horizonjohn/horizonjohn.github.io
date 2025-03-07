@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: <p>* Equal Contribution. <a href="https://scholar.google.com/citations?user=X1tytBsAAAAJ">Google Scholar</a></p>
+description: <p>* Equal Contribution</p>
 nav: true
 nav_order: 1
 ---
