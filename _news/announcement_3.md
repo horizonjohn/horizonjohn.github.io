@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <b>ARNet</b> has been accepted to <u>AAAI 2025</u>.
+Our paper <b>ARNet</b> is accepted to <u>AAAI 2025</u>.

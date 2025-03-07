@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <b>HAIGEN</b> has been accepted to <u>Ubicomp/IMWUT 2024</u>.
+Our paper <b>HAIGEN</b> is accepted to <u>ACM Ubicomp/IMWUT 2024</u>.

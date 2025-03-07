@@ -20,19 +20,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to integrate various technologies into human daily lives to improve our efficiency and quality.
+I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various technologies into surroundings to enhance our living efficiency and quality.
 
-🔍 <b>Master</b>: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design process. I investigated areas:
-- <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder.
-- <b>Basic Structure</b>: Vision Transformers, CLIP, Transformer.
+🔍 <b>Master</b>: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design process:
+- <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder, Vision Transformers.
 - <b>Efficient Learning</b>: Self-Supervised Learning, Multi-Modal Learning.
 
-🔍 <b>Undergraduate</b>: I gained extensive experience in various engineering projects, focusing on the following interconnected aspects: 
-- <b>Microcontroller Development</b>: Jetson Nano, Raspberry Pi, Stm32, Arduino.
+🔍 <b>Undergraduate</b>: I gained extensive experience in various engineering projects with the following interconnected aspects: 
+- <b>Microcontroller Development</b>: Jetson Nano, Raspberry Pi, Stm32, PLC.
 - <b>PCB Design</b>: Altium Designer.
 - <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
 - <b>Deep Learning</b>: Image Classfication, Object Detection.
 
-<u>In my freshman year</u>, I joined the [<u>Dean</u>](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three projects. The final project, for which I was responsible, yielded `significant` results. It opened a new breakthrough in the textile field and passed the technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
+<u>In my freshman year</u>, I joined the [<u>Dean</u>](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three projects. The final project, for which I was responsible, yielded <b>significant</b> results. It opened a new breakthrough in the textile field and passed the technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
 
-🔭 My research interests are <u>Deep Learning and Its Applications</u>, including `Generative AI`, `Embedded System`, `Human-Computer Interaction`, etc.
+🔭 My research interests are <u>Deep Learning and Its Applications</u>, mainly focusing on `Embedded System` and `Human-Computer Interaction`.
