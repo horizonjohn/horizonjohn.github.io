@@ -6,7 +6,7 @@ subtitle: A final-year Master's student at Hunan University.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: left
+  align: right
   image: john.png
   image_circular: false # crops the image to make it circular
   more_info: # >
