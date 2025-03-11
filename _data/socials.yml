@@ -5,7 +5,6 @@
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-# dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: jiangjn22@hnu.edu.cn # your email address
 scholar_userid: X1tytBsAAAAJ # your Google Scholar ID
@@ -25,6 +24,7 @@ github_username: horizonjohn # your GitHub user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0003-3029-8146 # your ORCID ID
+dblp_url: https://dblp.org/pid/198/8823.html # your DBLP profile url
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
