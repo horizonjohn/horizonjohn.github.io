@@ -11,8 +11,7 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-<p>You can see my <a href="https://scholar.google.com/citations?user=X1tytBsAAAAJ">Google Scholar. </a></p>
-<p>* Equal Contribution</p>
+<p>* Equal Contribution. Here is my <a href="https://scholar.google.com/citations?user=X1tytBsAAAAJ">Google Scholar</a> .</p>
 
 {% include bib_search.liquid %}
 
