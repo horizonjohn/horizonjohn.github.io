@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various technologies into surroundings to enhance our living efficiency and quality.
+I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
 
-🔍 <b>Master</b>: My focus primarily revolved around leveraging AI powers to assist designers in enhancing their design process:
+🔍 <b>Master</b>: My focus primarily revolved around leveraging AI technologies to assist designers in enhancing their design process:
 - <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder, Vision Transformers.
 - <b>Efficient Learning</b>: Self-Supervised Learning, Multi-Modal Learning.
 

@@ -41,7 +41,7 @@ navigation_weight: 50
   <ul style="padding-left: 20px;">
       <li>Neural Networks and Deep Learning, Hunan University, <u>Fall 2024; Fall 2023</u></li>
       <li>Data Structure and Algorithms, Hunan University, <u>Fall 2024</u></li>
-      <li>Practice of Industry-Education Integration, Hunan University, <u>Summer 2024</u></li>
+      <li>Practice of Industry-Education Integration, Hunan University, <u>Summer 2025; Summer 2024</u></li>
       <li>Data Collection and Visualization, Hunan University, <u>Fall 2022</u></li>
     </ul>
 - <b>Campus Activities</b>
@@ -50,6 +50,6 @@ navigation_weight: 50
       <li><em>Sep. 2020 - Jun. 2021</em> &nbsp; | &nbsp; School of Mechanical Engineering Student Union, Donghua University, <b><i>President</i></b></li>
       <li><a href="#">Relevant Honors:</a></li>
       <li><em>Jan. 2022</em> &nbsp; | &nbsp; <b><i>Shanghai Outstanding Student Club</i></b> for the Buyue Vehicle Technological Association</li>
-      <li><em>Sep. 2021</em> &nbsp; | &nbsp; <b><i>Five-star Student Club</i></b>, Donghua University (One of 10 Awardees)</li>
+      <li><em>Sep. 2021</em> &nbsp; | &nbsp; <b><i>Five-star Student Club</i></b>, Donghua University (One of 10 Awardees, 10/102)</li>
       <li><em>May. 2021</em> &nbsp; | &nbsp; <b><i>Five-star Student Union</i></b>, Donghua University (Sole Awardee)</li>
     </ul>
