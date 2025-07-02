@@ -1,13 +1,19 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Experience
+    permalink: /experience/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Award
+    permalink: /award/
+  - title: divider
+  - title: Others
+    permalink: /others/
+  - title: divider
+  - title: Resume
+    permalink: /resume/
 ---
