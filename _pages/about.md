@@ -22,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! Thanks for visiting my page. 👋
 
-🔭 My research interests are <u>Deep Learning and Its Applications</u>.
+<!-- My research interests are <u>Deep Learning and Its Applications</u>.  -->
 
-I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
+🔭 I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
 
 🔍 <b>Master</b>: My focus primarily revolved around leveraging AI technologies to assist designers in enhancing their design process:
 - <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder, Vision Transformers.
@@ -36,4 +36,6 @@ I have a strong `interdisciplinary` background. I truly enjoy exploring the inte
 - <b>PCB Design</b>: Altium Designer.
 - <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
 
+<div style="margin-left: 20px;">
 <u>Starting in my freshman year</u>, I joined the Dean’s research group and participated in three projects. The final project, for which I was responsible, achieved <b>notable</b> results. It led to a breakthrough in the textile field, passed a formal technical appraisal, and facilitated collaborations with several leading companies in the industry. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
+</div>
