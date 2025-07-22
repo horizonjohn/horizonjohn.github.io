@@ -36,6 +36,4 @@ Hi there! Thanks for visiting my page. 👋
 - <b>PCB Design</b>: Altium Designer.
 - <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
 
-<div style="margin-left: 20px;">
 <u>Starting in my freshman year</u>, I joined the Dean’s research group and participated in three projects. The final project, for which I was responsible, achieved <b>notable</b> results. It led to a breakthrough in the textile field, passed a formal technical appraisal, and facilitated collaborations with several leading companies in the industry. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
-</div>
