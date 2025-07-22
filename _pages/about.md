@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A final-year Master's student at Hunan University.
+subtitle: incoming Ph.D. student @ School of EECS, Pennsylvania State University.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,7 +10,7 @@ profile:
   image: john.png
   image_circular: false # crops the image to make it circular
   more_info: # >
-    <p>John, Master @ HNU</p>
+    <p>John</p>
   # <p>123 your address street</p>
   # <p>Your City, State 12345</p>
 
@@ -19,6 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+Hi there! Thanks for visiting my page. 👋
+
+🔭 My research interests are <u>Deep Learning and Its Applications</u>.
 
 I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
 
@@ -32,6 +36,4 @@ I have a strong `interdisciplinary` background. I truly enjoy exploring the inte
 - <b>PCB Design</b>: Altium Designer.
 - <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
 
-<u>In my freshman year</u>, I joined the [<u>Dean</u>](https://iai.dhu.edu.cn/2021/0525/c20255a281050/page.htm)’s research group, participating in three projects. The final project, for which I was responsible, yielded `significant` results. It opened a new breakthrough in the textile field and passed the technical achievement appraisal, contributing to collaborative contracts with several industry-leading companies. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
-
-🔭 My research interests are <u>Deep Learning and Its Applications</u>, focusing on `Embedded Systems` & `Human-Computer Interaction`.
+<u>Starting in my freshman year</u>, I joined the Dean’s research group and participated in three projects. The final project, for which I was responsible, achieved <b>notable</b> results. It led to a breakthrough in the textile field, passed a formal technical appraisal, and facilitated collaborations with several leading companies in the industry. <u>Furthermore</u>, I actively participated in various technological competitions and campus activities to enrich my academic experience and campus life as a whole.
