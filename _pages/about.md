@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: incoming Ph.D. student @ School of EECS, Pennsylvania State University.
+subtitle: A Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Pennsylvania State University</a>.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -10,7 +10,7 @@ profile:
   image: john.png
   image_circular: false # crops the image to make it circular
   more_info: # >
-    <p>John</p>
+    <p>John 👨‍💻</p>
   # <p>123 your address street</p>
   # <p>Your City, State 12345</p>
 
