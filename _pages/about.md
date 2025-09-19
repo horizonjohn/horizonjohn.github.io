@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Pennsylvania State University</a>.
+subtitle: First-year Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Pennsylvania State University</a>.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
