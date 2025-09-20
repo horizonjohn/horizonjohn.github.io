@@ -20,11 +20,11 @@ github_username: horizonjohn # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: jianan-jiang-69a176373 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0003-3029-8146 # your ORCID ID
-dblp_url: https://dblp.org/pid/198/8823.html # your DBLP profile url
+dblp_url: # your DBLP profile url
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons

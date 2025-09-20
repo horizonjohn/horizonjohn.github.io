@@ -805,10 +805,10 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          border-color: var(--global-text-color);
+          border-color: #00000000;
           color: var(--global-highlight-color);
           font-weight: bold;
-          text-decoration: underline;
+          font-size: 10pt;
         }
       }
 

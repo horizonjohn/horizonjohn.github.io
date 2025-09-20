@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: First-year Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Pennsylvania State University</a>.
+subtitle: Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Pennsylvania State University</a>.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -24,7 +24,7 @@ Hi there! Thanks for visiting my page. 👋
 
 <!-- My research interests are <u>Deep Learning and Its Applications</u>.  -->
 
-🔭 I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my vision is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
+🔭 I have a strong `interdisciplinary` background. I truly enjoy exploring the intersection of these fields, and my long-term goal is to develop and integrate various insights into surroundings to enhance our living efficiency and quality.
 
 🔍 <b>Master</b>: My focus primarily revolved around leveraging AI technologies to assist designers in enhancing their design process:
 - <b>Generative AI</b>: Diffusion Models, GANs, AutoEncoder, Vision Transformers.
