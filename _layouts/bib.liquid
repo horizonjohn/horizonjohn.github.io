@@ -247,7 +247,7 @@
       {% endif %}
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
-        {{🏆 entry.award_name }}
+          {%- if entry.award_name %}{{ 🏆 entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
     </div>
