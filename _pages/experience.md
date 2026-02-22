@@ -10,7 +10,7 @@ navigation_weight: 50
 ### Education
 - <b>Ph.D.</b> in Electrical Engineering
   <ul style="padding-left: 20px;">
-      <li><em>Aug. 2025 - Now</em> &nbsp; | &nbsp; <a href="http://www.psu.edu/">Pennsylvania State University</a>, University Park, PA, USA.</li>
+      <li><em>Aug. 2025 - Now</em> &nbsp; | &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>, University Park, PA, USA.</li>
     </ul>
 - <b>M.Eng.</b> in Design Science (<i>Direct Admission</i>)
   <ul style="padding-left: 20px;">
@@ -37,7 +37,10 @@ navigation_weight: 50
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
       <li>ACM International Conference on Multimedia (MM)</li>
       <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
+      <li>European Conference on Artificial Intelligence (ECAI)</li>
       <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
+      <li>Springer Nature Signal, Image and Video Processing</li>
+      <li>Springer Nature Scientific Reports</li>
     </ul>
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">
