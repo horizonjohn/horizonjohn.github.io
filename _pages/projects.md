@@ -7,6 +7,9 @@ nav_order: 2
 ---
 
 <!-- pages/projects.md -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
-  {% bibliography --file projects --group_by none %}
+  {% bibliography --file projects %}
 </div>
