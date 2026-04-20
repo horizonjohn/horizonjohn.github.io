@@ -11,9 +11,6 @@ children:
   - title: Award
     permalink: /award/
   - title: divider
-  - title: Others
-    permalink: /others/
-  - title: divider
   - title: Resume
     permalink: /resume/
 ---
