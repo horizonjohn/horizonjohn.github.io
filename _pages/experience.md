@@ -16,10 +16,9 @@ navigation_weight: 50
   <ul style="padding-left: 20px;">
       <li><em>Aug. 2022 - Jun. 2025</em> &nbsp; | &nbsp; <a href="http://www-en.hnu.edu.cn/">Hunan University</a>, Changsha, China.</li>
     </ul>
-- <b>B.Eng.</b> in Mechanical Engineering (<i>Mechatronics Engineering</i>)
+- <b>B.Eng.</b> in Mechanical Engineering (<i>Engineering Honors Class</i>)
   <ul style="padding-left: 20px;">
       <li><em>Sep. 2018 - Jun. 2022</em> &nbsp; | &nbsp; <a href="https://english.dhu.edu.cn/">Donghua University</a>, Shanghai, China.</li>
-      <li><em>Sep. 2018 - Jun. 2022</em> &nbsp; | &nbsp; <i>Mechanical Engineering Excellent Class</i></li>
       <li><em>Dec. 2019 - Jun. 2022</em> &nbsp; | &nbsp; <i>Intelligent Manufacturing and Robotics Experimental Class</i></li>
       <li><em>Dec. 2020 - Jun. 2022</em> &nbsp; | &nbsp; <i>Artificial Intelligence Experimental Class</i></li>
   </ul>
@@ -37,9 +36,10 @@ navigation_weight: 50
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
       <li>ACM International Conference on Multimedia (MM)</li>
       <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
-      <li>European Conference on Artificial Intelligence (ECAI)</li>
       <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
+      <li>European Conference on Artificial Intelligence (ECAI)</li>
       <li>Springer Nature Signal, Image and Video Processing</li>
+      <li>Springer Nature Discover Computing</li>
       <li>Springer Nature Scientific Reports</li>
     </ul>
 - <b>Teaching Assistants</b>
