@@ -59,7 +59,9 @@
     {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     {% when 'csdn_id' %}
-      <a href="https://blog.csdn.net/{{ social[1] }}" title="CSDN Blog"><i class="ai ai-obp"></i></a>
+      <a href="https://blog.csdn.net/{{ social[1] }}" title="CSDN Blog" aria-label="CSDN Blog">
+        <span class="csdn-icon" aria-hidden="true"></span>
+      </a>
     {% when 'scopus_id' %}
       <a href="https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}" title="Scopus"><i class="ai ai-scopus"></i></a>
     {% when 'semanticscholar_id' %}

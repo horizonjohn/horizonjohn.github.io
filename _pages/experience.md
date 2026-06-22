@@ -25,7 +25,7 @@ navigation_weight: 50
 
 - <b>Internships</b>
   <ul style="padding-left: 20px;">
-      <li><em>Aug. 2023 - Dec. 2023</em> &nbsp; | &nbsp; <a href="https://www.wondershare.com/">Wondershare</a>, Changsha, China.</li>
+      <li><em>Aug. 2023 - Dec. 2023</em> &nbsp; | &nbsp; <a href="https://www.wondershare.com/">Wondershare Technology</a>, Changsha, China.</li>
   </ul>
 
 <br>

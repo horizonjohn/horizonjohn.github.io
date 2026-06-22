@@ -332,12 +332,29 @@ ul.task-list input[type="checkbox"] {
         }
       }
 
+      .csdn-icon {
+        display: inline-block;
+        width: 0.9em;
+        height: 0.9em;
+        vertical-align: -0.085em;
+        border-radius: 12.5%;
+        color: var(--global-text-color);
+        background-color: currentColor;
+        mask: url("../icon/csdn.svg") center / contain no-repeat;
+        -webkit-mask: url("../icon/csdn.svg") center / contain no-repeat;
+        transition: color 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
+        .csdn-icon {
+          color: var(--global-theme-color);
+        }
+
         i::before {
           color: var(--global-theme-color);
         }
@@ -424,6 +441,19 @@ ul.task-list input[type="checkbox"] {
         }
       }
 
+      .csdn-icon {
+        display: inline-block;
+        width: 0.9em;
+        height: 0.9em;
+        vertical-align: -0.085em;
+        border-radius: 12.5%;
+        color: var(--global-text-color);
+        background-color: currentColor;
+        mask: url("../icon/csdn.svg") center / contain no-repeat;
+        -webkit-mask: url("../icon/csdn.svg") center / contain no-repeat;
+        transition: color 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
@@ -431,6 +461,10 @@ ul.task-list input[type="checkbox"] {
 
       &:hover {
         text-decoration: none;
+
+        .csdn-icon {
+          color: var(--global-theme-color);
+        }
 
         i::before {
           color: var(--global-theme-color);
@@ -440,7 +474,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
+    font-weight: 600;
   }
 }
 
