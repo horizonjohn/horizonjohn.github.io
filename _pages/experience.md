@@ -19,8 +19,8 @@ navigation_weight: 50
 - <b>B.Eng.</b> in Mechanical Engineering (<i>Engineering Honors Class</i>)
   <ul style="padding-left: 20px;">
       <li><em>Sep. 2018 - Jun. 2022</em> &nbsp; | &nbsp; <a href="https://english.dhu.edu.cn/">Donghua University</a>, Shanghai, China.</li>
-      <li><em>Dec. 2019 - Jun. 2022</em> &nbsp; | &nbsp; <i>Intelligent Manufacturing and Robotics Experimental Class</i></li>
-      <li><em>Dec. 2020 - Jun. 2022</em> &nbsp; | &nbsp; <i>Artificial Intelligence Experimental Class</i></li>
+      <li><em>Dec. 2019 - Jun. 2022</em> &nbsp; | &nbsp; <i>Intelligent Manufacturing and Robotics Honors Program</i></li>
+      <li><em>Dec. 2020 - Jun. 2022</em> &nbsp; | &nbsp; <i>Artificial Intelligence Honors Program</i></li>
   </ul>
 
 - <b>Internships</b>
@@ -33,6 +33,7 @@ navigation_weight: 50
 ### Service
 - <b>Conference & Journal Reviewer</b>
   <ul style="padding-left: 20px;">
+      <li>ACM Symposium on User Interface Software and Technology (UIST)</li>
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
       <li>ACM International Conference on Multimedia (MM)</li>
       <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
