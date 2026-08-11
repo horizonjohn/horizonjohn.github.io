@@ -33,15 +33,16 @@ navigation_weight: 50
 ### Service
 - <b>Conference & Journal Reviewer</b>
   <ul style="padding-left: 20px;">
+      <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
+      <li>European Conference on Artificial Intelligence (ECAI)</li>
       <li>ACM Symposium on User Interface Software and Technology (UIST)</li>
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
       <li>ACM International Conference on Multimedia (MM)</li>
       <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
       <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
-      <li>European Conference on Artificial Intelligence (ECAI)</li>
+      <li>Springer Nature Scientific Reports</li>
       <li>Springer Nature Signal, Image and Video Processing</li>
       <li>Springer Nature Discover Computing</li>
-      <li>Springer Nature Scientific Reports</li>
     </ul>
 - <b>Teaching Assistants</b>
   <ul style="padding-left: 20px;">

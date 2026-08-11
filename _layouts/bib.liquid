@@ -36,7 +36,6 @@
             path=entry_path
             sizes = "200px"
             class="preview z-depth-1 rounded"
-            zoomable=true
             alt=entry.preview
           %}
         {% endif %}
@@ -184,8 +183,12 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      {% if entry.pdf %}
+        {% if entry.pdf contains '://' %}
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button"><i class="ai ai-arxiv" aria-hidden="true"></i> PDF</a>
+        {% else %}
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="ai ai-arxiv" aria-hidden="true"></i> PDF</a>
+        {% endif %}
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-link" aria-hidden="true"></i> DOI</a>
@@ -201,13 +204,6 @@
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.pdf %}
-        {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button"><i class="ai ai-arxiv" aria-hidden="true"></i> PDF</a>
-        {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="ai ai-arxiv" aria-hidden="true"></i> PDF</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
@@ -249,6 +245,9 @@
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %} 🏆 {{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
+      {% endif %}
+      {% if entry.project %}
+        <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-diagram-project" aria-hidden="true"></i> Website</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
@@ -340,13 +339,6 @@
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
-      </div>
-    {% endif %}
-
-    {% if entry.abstract %}
-      <!-- Hidden abstract block -->
-      <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
 

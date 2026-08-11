@@ -967,6 +967,14 @@ html.transition *:after {
   > ul:last-of-type {
     margin-bottom: 0.35rem;
   }
+
+  .paper-tag {
+    display: inline-block;
+    padding: 0 2px;
+    line-height: 1.2;
+    background-color: var(--global-paper-tag-bg-color);
+    border-radius: 2px;
+  }
 }
 
 .post {

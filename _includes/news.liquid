@@ -13,7 +13,7 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
+        {% assign news = site.news | sort: 'month' | reverse %}
         {% if news_scrollable %}
           {% assign news_limit = news_size %}
         {% elsif include.limit and site.announcements.limit %}
@@ -23,7 +23,13 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 15%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 10%">
+              {% if item.month %}
+                {{ item.month | append: '-01' | date: '%b %Y' }}
+              {% else %}
+                {{ item.date | date: '%b %Y' }}
+              {% endif %}
+            </th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
