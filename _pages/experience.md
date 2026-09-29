@@ -38,6 +38,7 @@ navigation_weight: 50
       <li>ACM Symposium on User Interface Software and Technology (UIST)</li>
       <li>ACM CHI Conference on Human Factors in Computing Systems (CHI)</li>
       <li>ACM International Conference on Multimedia (MM)</li>
+      <li>IEEE Conference on Virtual Reality and 3D User Interfaces (VR) </li>
       <li>IEEE International Conference on Multimedia & Expo (ICME)</li>
       <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
       <li>Springer Nature Scientific Reports</li>

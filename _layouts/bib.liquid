@@ -160,7 +160,11 @@
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% if entry.year %}
-      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+      {% if entry.endyear and entry.endyear != entry.year %}
+        {% capture entryyear %}{{ " " }}{{ entry.year }}&ndash;{{ entry.endyear }}{% endcapture %}
+      {% else %}
+        {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+      {% endif %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
@@ -180,6 +184,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.description %}
+      <div class="project-description">
+        {{ entry.description | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">

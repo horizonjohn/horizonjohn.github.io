@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">The Pennsylvania State University</a>.
+subtitle: Ph.D. Student @ <a href="https://www.eecs.psu.edu/">School of EECS</a>, <a href="http://www.psu.edu/">Penn State University</a>.
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -27,7 +27,9 @@ Hi there! Thanks for visiting my page. 👋
 
 <div class="about-research" markdown="1">
 
-🔭 I have a strong `interdisciplinary` background spanning Generative AI, Mobile Computing, and Interactive Systems. My current research focuses on <b>Interactive & Embodied AI</b>, where I explore how generative and multimodal models can enable efficient and intelligent systems for real-world applications, particularly in <b>VR/MR</b> and <b>Robotics</b>. My long-term goal is to integrate insights across disciplines to develop technologies that can better understand, interact with, and adapt to the physical world.
+🔭 I have a strong `interdisciplinary` background spanning Artificial Intelligence, Mobile Computing, and Interactive Systems.
+
+My current research focuses on <b>Interactive & Embodied AI</b>, where I explore how generative and multimodal models can enable efficient and intelligent systems for real-world applications, particularly in <b>VR/MR</b> and <b>Robotics</b>. My long-term goal is to integrate insights across disciplines to develop technologies that can better understand, interact with, and adapt to the physical world.
 
 <p class="research-heading">🔍 <b>Master</b>: My focus primarily revolved around AI-driven visual computing and human-centered applications:</p>
 
@@ -45,7 +47,7 @@ Hi there! Thanks for visiting my page. 👋
 - <b>PCB Design</b>: Altium Designer.
 - <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
 
-<p class="ml-4">My research journey began in my <u>freshman year</u>, when I joined the Dean’s research group and worked on several interdisciplinary engineering projects with industrial applications. One of these, which I led, explored <b>robotics for textile manufacturing</b>; the resulting work passed a formal technical appraisal and supported collaborations with industry-leading companies. <u>Furthermore</u>, I actively participated in various technology competitions and campus activities to enrich my academic experience and campus life as a whole.
+<p class="ml-4">My research journey began in my <u>freshman year</u>, when I joined the <a href="https://iai.dhu.edu.cn/2025/0708/c20255a363731/page.htm"><b>Dean</b></a>’s research group and worked on several interdisciplinary engineering projects with industrial applications. <u>Furthermore</u>, I actively participated in various technology competitions and campus activities to enrich my academic experience and campus life as a whole.
 </p>
 
 </div>

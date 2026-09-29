@@ -582,6 +582,43 @@ footer.sticky-bottom {
     padding-top: 0.15rem;
     padding-bottom: 0.15rem;
   }
+
+  .news-scrollable {
+    overflow-y: auto;
+    padding-right: 1rem;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .news-scroll-frame {
+    position: relative;
+  }
+
+  .news-scrollbar {
+    position: absolute;
+    top: 0.2rem;
+    right: 0.2rem;
+    bottom: 0.2rem;
+    width: 6px;
+    background-color: var(--global-news-scroll-track-color);
+    border-radius: 3px;
+    pointer-events: none;
+  }
+
+  .news-scrollbar-thumb {
+    display: block;
+    width: 100%;
+    background-color: var(--global-news-scroll-thumb-color);
+    border-radius: 3px;
+    transition: transform 80ms linear;
+  }
+}
+
+.selected-publications-heading {
+  margin-top: 3.5rem;
 }
 
 // Repositories
@@ -805,6 +842,25 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+      }
+
+      .project-description {
+        margin-top: 0.35rem;
+        line-height: 1.45;
+
+        .project-result {
+          display: block;
+
+          &::before {
+            content: "\2022";
+            margin-right: 0.4rem;
+          }
+
+          sup {
+            font-size: 0.65em;
+            font-style: italic;
+          }
+        }
       }
 
       .author {
