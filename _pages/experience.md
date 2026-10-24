@@ -49,6 +49,7 @@ navigation_weight: 50
       <li>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</li>
       <li>Springer Nature Scientific Reports</li>
       <li>Springer Nature Signal, Image and Video Processing</li>
+      <li>Springer Nature Discover Artificial Intelligence</li>
       <li>Springer Nature Discover Computing</li>
     </ul>
 - <b>Teaching Assistants</b>
