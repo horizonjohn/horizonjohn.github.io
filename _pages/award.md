@@ -7,7 +7,6 @@ nav: false
 navigation_weight: 50
 ---
 
-
 - 🏅 <b>Honors</b>
   <ul style="padding-left: 20px;">
       <li><em>Jun. 2025</em> &nbsp; | &nbsp; <b><i>Outstanding Academic Master's Thesis</i></b>, Hunan University (<u><b>3%</b></u>)</li>

@@ -8,6 +8,7 @@ navigation_weight: 50
 ---
 
 ### Education
+
 - <b>Ph.D.</b> in Electrical Engineering
   <ul style="padding-left: 20px;">
       <li><em>Aug. 2025 - Now</em> &nbsp; | &nbsp; <a href="http://www.psu.edu/">The Pennsylvania State University</a>, University Park, PA, USA.</li>
@@ -25,8 +26,8 @@ navigation_weight: 50
 
 <br>
 
-
 ### Intership
+
 - <b>Algorithm Engineer Intern</b> -- Video Virtual Try-On
   <ul style="padding-left: 20px;">
       <li><em>Aug. 2023 - Dec. 2023</em> &nbsp; | &nbsp; <a href="https://www.wondershare.com/">Wondershare Technology</a>, Changsha, China.</li>
@@ -34,8 +35,8 @@ navigation_weight: 50
 
 <br>
 
-
 ### Service
+
 - <b>Conference & Journal Reviewer</b>
   <ul style="padding-left: 20px;">
       <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
