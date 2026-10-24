@@ -14,7 +14,6 @@ navigation_weight: 50
       <li><em>Nov. 2024</em> &nbsp; | &nbsp; <b><i>Best Paper Award</i></b>, ACM CSCW Conference (One of 5 Awardees, <u><b>1%</b></u>)</li>
       <li><em>Jun. 2022</em> &nbsp; | &nbsp; <b><i>Shanghai Outstanding Graduate</i></b>, Shanghai Municipal Education Commission (<u><b>3%</b></u>)</li>
       <li><em>Nov. 2021</em> &nbsp; | &nbsp; <b><i>Outstanding Student Leader</i></b>, Donghua University</li>
-      <li><em>Nov. 2021</em> &nbsp; | &nbsp; <b><i>Outstanding Student Club Leader</i></b>, Donghua University</li>
       <li><em>May. 2021</em> &nbsp; | &nbsp; <b><i>Person of the Year</i></b>, School of Mechanical Engineering, Donghua University (One of 10 awardees)</li>
     </ul>
 

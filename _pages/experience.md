@@ -23,12 +23,17 @@ navigation_weight: 50
       <li><em>Dec. 2020 - Jun. 2022</em> &nbsp; | &nbsp; <i>Artificial Intelligence Honors Program</i></li>
   </ul>
 
-- <b>Internships</b>
+<br>
+
+
+### Intership
+- <b>Algorithm Engineer Intern</b> -- Video Virtual Try-On
   <ul style="padding-left: 20px;">
       <li><em>Aug. 2023 - Dec. 2023</em> &nbsp; | &nbsp; <a href="https://www.wondershare.com/">Wondershare Technology</a>, Changsha, China.</li>
   </ul>
 
 <br>
+
 
 ### Service
 - <b>Conference & Journal Reviewer</b>

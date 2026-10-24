@@ -24,8 +24,8 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.22}}px, (min-width: 576px)
-      22vw, 95vw"{% endcapture %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.18}}px, (min-width: 576px)
+      18vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -41,8 +41,7 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <br>
-      <h2>
+      <h2 class="home-section-heading">
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
@@ -50,7 +49,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2 class="selected-publications-heading">
+      <h2 class="home-section-heading selected-publications-heading">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
@@ -58,8 +57,7 @@ layout: default
 
     <!-- Selected projects -->
     {% if page.selected_projects %}
-      <br>
-      <h2>
+      <h2 class="home-section-heading">
         <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Selected Projects</a>
       </h2>
       {% include selected_projects.liquid %}
@@ -67,7 +65,7 @@ layout: default
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social">
+      <div class="social home-social-section">
         <div class="contact-icons">{% include social.liquid %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>

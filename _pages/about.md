@@ -33,12 +33,8 @@ My current research focuses on <b>Interactive & Embodied AI</b>, where I explore
 
 <p class="research-heading">🔍 <b>Master</b>: My focus primarily revolved around AI-driven visual computing and human-centered applications:</p>
 
-- <b>Representation Learning</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2406.11551"><b>ARNet</b></a> (AAAI'25)</span>; <span class="paper-tag"><a href="https://arxiv.org/pdf/2403.08651"><b>HAIFIT</b></a> (T-AI'26)</span>.
-<!-- ; <span class="paper-tag"><b>HyperGen</b> (under review)</span>. -->
-- <b>Generative AI for Design</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2408.00855"><b>HAIGEN</b></a> (UbiComp'24)</span>; <span class="paper-tag"><a href="https://doi.org/10.1145/3544548.3581377"><b>StyleMe</b></a> (CHI'23)</span>; <span class="paper-tag"><a href="https://doi.org/10.1145/3687054"><b>StyleWe</b></a> (CSCW'24)</span>.
-- <b>Efficient Computing</b>: <span class="paper-tag"><a href="https://doi.org/10.1109/TII.2024.3438284"><b>FPGA</b></a> (T-II'24)</span>; <span class="paper-tag"><a href="https://doi.org/10.1145/3643542"><b>CrossGAI</b></a> (UbiComp'24)</span>.
-<!-- ; <span class="paper-tag"><a href="https://arxiv.org/pdf/2503.12389"><b>FedGAI</b></a> (under review)</span>. -->
-
+- <b>Representation Learning</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2406.11551"><b>ARNet</b></a> (AAAI'25)</span>; <span class="paper-tag"><a href="https://doi.org/10.1109/TAI.2026.3720247"><b>HAIFIT</b></a> (IEEE T-AI'26)</span>; <i>etc</i>.
+- <b>Human-Centered AI</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2408.00855"><b>HAIGEN</b></a> (UbiComp'24)</span>; <span class="paper-tag"><a href="https://doi.org/10.1145/3687054"><b>StyleWe</b></a> (CSCW'24)</span>; <i>etc</i>.
 
 <p class="research-heading">🔍 <b>Undergraduate</b>: I gained extensive experience in various engineering projects with the following interconnected aspects:</p>
 
