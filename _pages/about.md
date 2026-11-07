@@ -9,9 +9,10 @@ profile:
   align: right
   image: john.png
   image_circular: false # crops the image to make it circular
-  more_info: # >
+  more_info: >
+   <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>State College, PA</span></p>
   # <p>John 🤳</p>
-  # <p>State College, USA</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,19 +32,15 @@ Hi there! Thanks for visiting my page. 👋
 
 My current research focuses on <b>Interactive & Embodied AI</b>, where I explore how generative and multimodal models can enable efficient and intelligent systems for real-world applications, particularly in <b>VR/MR</b> and <b>Robotics</b>. My long-term goal is to integrate insights across disciplines to develop technologies that can better understand, interact with, and adapt to the physical world.
 
-<p class="research-heading">🔍 <b>Master</b>: My focus primarily revolved around AI-driven visual computing and human-centered applications:</p>
+Previously, I explored how AI could improve the design efficiency and creativity from both algorithmic and human-centered perspectives. My research journey began in my freshman year, when I joined the <a href="https://iai.dhu.edu.cn/2025/0708/c20255a363731/page.htm"><b>Dean</b></a>’s research group and worked on several interdisciplinary engineering projects with industrial applications. <u>Alongside my research</u>, I actively participated in various technology competitions and campus activities to enrich my academic experience and campus life as a whole.
 
-- <b>Representation Learning</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2406.11551"><b>ARNet</b></a> (AAAI'25)</span>; <span class="paper-tag"><a href="https://doi.org/10.1109/TAI.2026.3720247"><b>HAIFIT</b></a> (IEEE T-AI'26)</span>; <i>etc</i>.
-- <b>Human-Centered AI</b>: <span class="paper-tag"><a href="https://arxiv.org/pdf/2408.00855"><b>HAIGEN</b></a> (UbiComp'24)</span>; <span class="paper-tag"><a href="https://doi.org/10.1145/3687054"><b>StyleWe</b></a> (CSCW'24)</span>; <i>etc</i>.
+#### Research Interests
 
-<p class="research-heading">🔍 <b>Undergraduate</b>: I gained extensive experience in various engineering projects with the following interconnected aspects:</p>
-
-- <b>Microcontroller Development</b>: Jetson Nano, Raspberry Pi, Stm32, PLC.
-- <b>Deep Learning</b>: Image Classfication, Object Detection.
-- <b>PCB Design</b>: Altium Designer.
-- <b>Mechanical Modeling and Analysis</b>: SolidWorks, Ansys.
-
-<p class="ml-4">My research journey began in my <u>freshman year</u>, when I joined the <a href="https://iai.dhu.edu.cn/2025/0708/c20255a363731/page.htm"><b>Dean</b></a>’s research group and worked on several interdisciplinary engineering projects with industrial applications. <u>Furthermore</u>, I actively participated in various technology competitions and campus activities to enrich my academic experience and campus life as a whole.
-</p>
+- `Interactive & Embodied Systems`:
+  How can intelligent systems understand and adapt to people?
+- `Efficient Representation Learning`:
+  How can AI learn robust representations efficiently?
+- `Human-Centered Generative AI`:
+  How can generative AI augment existing workflows seamlessly?
 
 </div>

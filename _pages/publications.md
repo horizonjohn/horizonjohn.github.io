@@ -11,9 +11,11 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-<p>* Equal Contribution [<a href="https://scholar.google.com/citations?user=X1tytBsAAAAJ">Google Scholar</a>] .</p>
+<p class="publication-note">* Equal Contribution. Please see my [<a href="https://scholar.google.com/citations?user=X1tytBsAAAAJ">Google Scholar</a>] for the full list.</p>
 
-{% include bib_search.liquid %}
+<div class="publication-filter">
+  {% include bib_search.liquid show_topics=true %}
+</div>
 
 <div class="publications">
 

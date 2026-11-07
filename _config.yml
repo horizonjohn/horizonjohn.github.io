@@ -225,6 +225,7 @@ filtered_bibtex_keywords:
     arxiv,
     award,
     award_name,
+    badge_type,
     bibtex_show,
     blog,
     code,
@@ -239,6 +240,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    topic,
     video,
     website,
   ]

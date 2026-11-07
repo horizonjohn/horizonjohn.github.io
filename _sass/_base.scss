@@ -198,14 +198,25 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    color: var(--global-text-color-light);
+    font-size: 1rem;
+    line-height: 1.2;
+    white-space: nowrap;
 
     p {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      max-width: 100%;
       margin: 0;
+    }
+
+    i {
+      font-size: 0.9em;
     }
   }
 }
@@ -227,6 +238,12 @@ ul.task-list input[type="checkbox"] {
         display: block;
       }
     }
+  }
+}
+
+@media (min-width: 576px) and (max-width: 991.98px) {
+  .profile .more-info {
+    font-size: clamp(0.62rem, 1.65vw, 0.9rem);
   }
 }
 
@@ -535,7 +552,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 1rem;
 
   .container {
     text-align: center;
@@ -826,23 +843,27 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-      }
-
       .abbr {
         margin-bottom: 0.5rem;
 
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
+        .bib-badge {
+          color: white;
           margin-bottom: 0.5rem;
 
-          a {
-            color: white;
+          &.bib-badge--conference {
+            background-color: var(--global-bib-conference-color);
+          }
 
-            &:hover {
-              text-decoration: none;
-            }
+          &.bib-badge--journal {
+            background-color: var(--global-bib-journal-color);
+          }
+
+          &.bib-badge--preprint {
+            background-color: var(--global-bib-preprint-color);
+          }
+
+          &.bib-badge--project {
+            background-color: var(--global-bib-project-color);
           }
         }
 
@@ -1033,7 +1054,21 @@ html.transition *:after {
   }
 
   > ul:last-of-type {
+    padding-left: 0;
     margin-bottom: 0.35rem;
+    list-style: none;
+
+    > li {
+      position: relative;
+      padding-left: 1rem;
+
+      &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        content: "\2022";
+      }
+    }
   }
 
   .paper-tag {
@@ -1349,6 +1384,196 @@ ninja-keys::part(ninja-input-wrapper) {
   box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px;
   border-radius: 6px;
   padding: 8px 12px;
+}
+
+.publication-note {
+  margin-bottom: 1rem;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+.publication-filter + .publications {
+  margin-top: 1rem;
+
+  > h2.bibliography:first-child {
+    margin-top: 1.25rem;
+  }
+}
+
+.bib-filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.bib-filter-heading {
+  margin: 0;
+}
+
+.bib-topic-filters {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.bib-topic-filter {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  min-height: 40px;
+  padding: 0.45rem 0.75rem;
+  color: var(--global-bib-topic-text-color);
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-bib-control-border-color);
+  border-radius: 6px;
+  font: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+
+  > span {
+    color: inherit;
+  }
+
+  &:hover {
+    color: var(--global-text-color);
+    border-color: var(--global-text-color-light);
+  }
+
+  &[aria-pressed="true"] {
+    color: var(--global-text-color);
+    background: var(--global-bib-topic-active-bg-color);
+    border-color: var(--global-text-color-light);
+    font-weight: 600;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--global-text-color);
+    outline-offset: 2px;
+  }
+}
+
+.bib-topic-filter .bib-topic-index {
+  min-width: 1.5rem;
+  margin-right: 0.3rem;
+  color: var(--global-text-color);
+  font-size: 1.05rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: inherit;
+  text-align: left;
+}
+
+.bib-search-control {
+  display: flex;
+  flex: 0 0 40px;
+  align-items: center;
+  min-width: 40px;
+  max-width: 40px;
+  height: 40px;
+  margin-left: auto;
+  padding: 0;
+  overflow: hidden;
+  color: var(--global-text-color);
+  background: var(--global-bg-color);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  transition:
+    max-width 0.2s ease,
+    border-color 0.15s ease;
+
+  &.is-open {
+    flex: 1 1 220px;
+    min-width: 180px;
+    max-width: 300px;
+    padding-right: 0.75rem;
+    border-color: var(--global-bib-control-border-color);
+
+    .bibsearch-form-input {
+      width: 100%;
+      opacity: 1;
+      pointer-events: auto;
+    }
+  }
+
+  &:focus-within {
+    border-color: var(--global-text-color-light);
+  }
+
+  .bib-search-toggle {
+    display: inline-flex;
+    flex: 0 0 40px;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    padding: 0;
+    color: inherit;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--global-text-color);
+      outline-offset: -4px;
+    }
+
+    i {
+      font-size: 0.9rem;
+    }
+  }
+
+  .bibsearch-form-input {
+    width: 0;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    color: var(--global-text-color);
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 0.95rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s ease;
+
+    &::placeholder {
+      color: var(--global-text-color-light);
+      opacity: 0.9;
+    }
+  }
+}
+
+@media (max-width: 767.98px) {
+  .bib-topic-filters {
+    gap: 0.6rem;
+  }
+
+  .bib-search-control {
+    &.is-open {
+      flex: 1 1 180px;
+      max-width: 280px;
+    }
+  }
+}
+
+@media (max-width: 420px) {
+  .bib-topic-filter {
+    max-width: 100%;
+    white-space: normal;
+  }
+
+  .bib-search-control.is-open {
+    flex-basis: 100%;
+    max-width: none;
+  }
 }
 
 .newsletter-form-input:focus {

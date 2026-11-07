@@ -19,6 +19,13 @@
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
   --global-paper-tag-bg-color: #fff9e3;
+  --global-bib-conference-color: #d600be;
+  --global-bib-journal-color: #15809d;
+  --global-bib-preprint-color: #008929;
+  --global-bib-project-color: #d73f13;
+  --global-bib-control-border-color: #d2d2d2;
+  --global-bib-topic-active-bg-color: rgba(0, 0, 0, 0.02);
+  --global-bib-topic-text-color: #555555;
   --global-news-scroll-track-color: rgba(0, 0, 0, 0.06);
   --global-news-scroll-thumb-color: rgba(181, 9, 172, 0.3);
   --global-highlight-color: #{$red-color-dark};
@@ -93,6 +100,9 @@ html[data-theme="dark"] {
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
   --global-paper-tag-bg-color: #383525;
+  --global-bib-control-border-color: #56565a;
+  --global-bib-topic-active-bg-color: rgba(255, 255, 255, 0.035);
+  --global-bib-topic-text-color: #c2c2c2;
   --global-news-scroll-track-color: rgba(255, 255, 255, 0.1);
   --global-news-scroll-thumb-color: rgba(38, 152, 186, 0.45);
   --global-back-to-top-bg-color: rgba(

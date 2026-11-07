@@ -1,4 +1,55 @@
 {% if site.bib_search %}
   <script src="{{ '/assets/js/bibsearch.js' | relative_url | bust_file_cache }}" type="module"></script>
-  <input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
+  {% if include.show_topics %}
+    <div class="bib-filter-header">
+      <h3 class="bib-filter-heading">Research Topics</h3>
+      <div class="bib-search-control">
+        <button
+          type="button"
+          class="bib-search-toggle"
+          aria-label="Open publication filter"
+          title="Search publications"
+          aria-expanded="false"
+          aria-controls="bibsearch"
+        >
+          <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+        </button>
+        <input
+          type="text"
+          id="bibsearch"
+          spellcheck="false"
+          autocomplete="off"
+          class="bibsearch-form-input"
+          placeholder="Type to filter"
+          aria-label="Type to filter publications"
+          aria-hidden="true"
+          tabindex="-1"
+        >
+      </div>
+    </div>
+    <div class="bib-topic-filters" role="group" aria-label="Filter publications by research topic">
+      <button type="button" class="bib-topic-filter" data-bib-topic="interactive-embodied-ai" aria-pressed="false">
+        <span class="bib-topic-index" aria-hidden="true">01</span>
+        <span>Interactive &amp; Embodied Systems</span>
+      </button>
+      <button type="button" class="bib-topic-filter" data-bib-topic="efficient-representation-learning" aria-pressed="false">
+        <span class="bib-topic-index" aria-hidden="true">02</span>
+        <span>Efficient Representation Learning</span>
+      </button>
+      <button type="button" class="bib-topic-filter" data-bib-topic="human-centered-generative-ai" aria-pressed="false">
+        <span class="bib-topic-index" aria-hidden="true">03</span>
+        <span>Human-Centered Generative AI</span>
+      </button>
+    </div>
+  {% else %}
+    <input
+      type="text"
+      id="bibsearch"
+      spellcheck="false"
+      autocomplete="off"
+      class="bibsearch-form-input"
+      placeholder="Type to filter"
+      aria-label="Type to filter bibliography"
+    >
+  {% endif %}
 {% endif %}
