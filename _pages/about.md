@@ -10,9 +10,8 @@ profile:
   image: john.png
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>State College, PA</span></p>
+    <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>State College, PA</span></p>
   # <p>John 🤳</p>
-
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

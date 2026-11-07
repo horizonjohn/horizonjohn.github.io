@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
       list.classList.toggle("unloaded", !hasVisibleEntry);
 
       const heading = list.previousElementSibling;
-      if (heading?.matches("h2.bibliography")) {
+      if (heading && heading.matches("h2.bibliography")) {
         heading.classList.toggle("unloaded", !hasVisibleEntry);
       }
     });
@@ -45,7 +45,8 @@ document.addEventListener("DOMContentLoaded", function () {
       : null;
 
     entries.forEach((entry) => {
-      const entryTopic = entry.querySelector("[data-bib-topic]")?.dataset.bibTopic || "";
+      const topicElement = entry.querySelector("[data-bib-topic]");
+      const entryTopic = topicElement ? topicElement.dataset.bibTopic : "";
       const matchesTopic = !selectedTopic || entryTopic === selectedTopic;
       const matchesSearch =
         !normalizedSearchTerm || (supportsHighlights ? !nonMatchingEntries.has(entry) : entry.innerText.toLowerCase().includes(normalizedSearchTerm));
@@ -63,21 +64,23 @@ document.addEventListener("DOMContentLoaded", function () {
     filterItems(hashValue);
   };
 
-  searchToggle?.addEventListener("click", function () {
-    setSearchOpen(true);
-    searchInput.focus();
-  });
+  if (searchToggle) {
+    searchToggle.addEventListener("click", function () {
+      setSearchOpen(true);
+      searchInput.focus();
+    });
+  }
 
   searchInput.addEventListener("keydown", function (event) {
     if (event.key === "Escape" && !this.value) {
       setSearchOpen(false);
-      searchToggle?.focus();
+      if (searchToggle) searchToggle.focus();
     }
   });
 
   searchInput.addEventListener("blur", function () {
     window.setTimeout(() => {
-      if (!this.value && !searchControl?.contains(document.activeElement)) {
+      if (!this.value && (!searchControl || !searchControl.contains(document.activeElement))) {
         setSearchOpen(false);
       }
     }, 0);
